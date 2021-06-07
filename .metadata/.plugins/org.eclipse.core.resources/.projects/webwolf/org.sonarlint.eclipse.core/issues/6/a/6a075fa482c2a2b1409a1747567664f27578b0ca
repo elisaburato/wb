@@ -1,0 +1,12 @@
+
+
+AXmil294AkZ6yHwg_hke
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+
+AXmil294AkZ6yHwg_hkd
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+^
+java:S6212/"/Declare this local variable with "var" instead.(Öêß±8ùıœš/RINFOZ
+CODE_SMELL

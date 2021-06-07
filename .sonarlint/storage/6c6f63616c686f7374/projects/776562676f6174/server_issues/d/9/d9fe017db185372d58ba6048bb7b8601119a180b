@@ -1,0 +1,3 @@
+²java"S1192:CRITICALROPENZ 4850ed1db849ef4abb0298e9e8226f21h€ÙÊ”š/r
+CODE_SMELLzAXmilzj9AkZ6yHwg_hK5‚Æ
+fwebgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/password_reset/ResetLinkAssignment.javaXDefine a constant instead of duplicating this literal "password_link_not_found" 3 times.^

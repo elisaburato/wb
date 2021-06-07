@@ -1,0 +1,9 @@
+ùjava"S112:MAJORROPENZ 56950cfaa587b8d1a3e266a28455b453hÄŸ îö/r
+CODE_SMELLzAXmilyjZAkZ6yHwg_g_uÇµ
+gwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/DOMCrossSiteScriptingTest.javaFDefine and throw a dedicated exception instead of using a generic one.8ùjava"S112:MAJORROPENZ 8f6c4c03fbbd0dbb010aa26d90c6fb3fhÄŸ îö/r
+CODE_SMELLzAXmilyjZAkZ6yHwg_g_vÇµ
+gwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/DOMCrossSiteScriptingTest.javaFDefine and throw a dedicated exception instead of using a generic one.Cèjava"S1854:MAJORROPENZ c085469cc65e2c2005bde8b0743514c1hÄŸ îö/r
+CODE_SMELLzAXmilyjZAkZ6yHwg_g_wÇ¶
+gwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/DOMCrossSiteScriptingTest.java7Remove this useless assignment to local variable "xss".3Äjava"S1481:MINORROPENZ c085469cc65e2c2005bde8b0743514c1hÄŸ îö/r
+CODE_SMELLzAXmilyjZAkZ6yHwg_g_xÇó
+gwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/DOMCrossSiteScriptingTest.java(Remove this unused "xss" local variable.3

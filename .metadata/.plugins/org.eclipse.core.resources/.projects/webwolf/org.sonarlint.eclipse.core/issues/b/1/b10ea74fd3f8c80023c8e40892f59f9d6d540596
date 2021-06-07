@@ -1,0 +1,15 @@
+
+†
+AXmil2-aAkZ6yHwg_hko	java:S125F"<This block of commented-out lines of code should be removed.(àÕÌüÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+y
+java:S5344F">Don't use the default "PasswordEncoder" relying on plain-text.(àÕÌüÿÿÿÿ8¢ıœš/RCRITICALZVULNERABILITY
+p
+java:S1874V";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(¯šóŞÿÿÿÿÿ8¢ıœš/RMINORZ
+CODE_SMELL
+k
+java:S1874W";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(¦œÏ8¢ıœš/RMINORZ
+CODE_SMELL
+k
+java:S1874W";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(¦œÏ8¢ıœš/RMINORZ
+CODE_SMELL

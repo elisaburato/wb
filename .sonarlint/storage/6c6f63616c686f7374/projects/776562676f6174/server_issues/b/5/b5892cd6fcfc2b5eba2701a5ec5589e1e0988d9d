@@ -1,0 +1,17 @@
+™java"S117:MINORROPENZ e0dba3e4f684ad3dbcaacc2912cdfee4h€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hcg‚±
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.™java"S117:MINORROPENZ f68d7512d01aeded061d1518e599e29ch€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hch‚±
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.ÿjava"S1128:MINORROPENZ 73bc0328d2f9588b0feb65d35e866bdfh€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hci‚–
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java6Remove this unused import 'lombok.extern.log4j.Log4j'.Ñjava"S1602:MINORROPENZ 59fb1f4accab9a402342ba8348fdae89h€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hcj‚è
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java‡Remove useless curly braces around statement and then remove useless return keyword (sonar.java.source not set. Assuming 8 or greater.)„java"S125:MAJORROPENZ 4c6a1896e5ec808b838aad35815b40f9h€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hck‚œ
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java<This block of commented-out lines of code should be removed.„java"S125:MAJORROPENZ f907927404ab63925d52a1d8c33dc743h€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hcl‚œ
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java<This block of commented-out lines of code should be removed.,„java"S125:MAJORROPENZ fd1fc25292ce46a62ad13216084eb778h€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hcm‚œ
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java<This block of commented-out lines of code should be removed./java"S106:MAJORROPENZ 67cdb269a65e4754264d7f64af5a33dfh€ÙÊ”š/r
+CODE_SMELLzAXmil2NuAkZ6yHwg_hcn‚™
+Xwebgoat-integration-tests/src/test/java/org/owasp/webgoat/ProgressRaceConditionTest.java9Replace this use of System.out or System.err by a logger.3

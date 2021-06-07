@@ -1,0 +1,7 @@
+Ðcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil2jxAkZ6yHwg_he8‚x
+Hwebgoat-container/src/main/java/org/owasp/webgoat/WebSecurityConfig.java,1 duplicated blocks of code must be removed.þjava"S112:MAJORROPENZ e347daae680e3e9f8c357ef345422529h€ÙÊ”š/r
+CODE_SMELLzAXmil2jxAkZ6yHwg_he9‚–
+Hwebgoat-container/src/main/java/org/owasp/webgoat/WebSecurityConfig.javaFDefine and throw a dedicated exception instead of using a generic one.Oôjava"S125:MAJORROPENZ 5e23460b4de7412eaaa8a8e4db428b15h€ÙÊ”š/r
+CODE_SMELLzAXmil2jxAkZ6yHwg_he-‚Œ
+Hwebgoat-container/src/main/java/org/owasp/webgoat/WebSecurityConfig.java<This block of commented-out lines of code should be removed.P

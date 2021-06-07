@@ -1,0 +1,15 @@
+¤java"S2095:BLOCKERROPENZ e613adc55263c6f525fe6b27ce1d4a91h€ÙÊ”š/rBUGzAXmily-DAkZ6yHwg_hC-‚À
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.javaGUse try-with-resources or close this "Statement" in a "finally" clause.@¥java"S2095:BLOCKERROPENZ 19055d29ee8e473a082245d08086501ch€ÙÊ”š/rBUGzAXmily-DAkZ6yHwg_hC_‚Á
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.javaGUse try-with-resources or close this "Statement" in a "finally" clause.‰²java"S117:MINORROPENZ 88b6c16ff8ef18dd94f1b2db712928f4h€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDA‚Ê
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.6²java"S117:MINORROPENZ 3c06137a15e891a4c9157c8a059314d2h€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDB‚Ê
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.:—java"S1141:MAJORROPENZ 80d5b17efc16ace990c07580fc3e85ebh€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDC‚®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.java5Extract this nested try block into a separate method.?Ájava"S1149:MAJORROPENZ 3a26e677cf1e77a7eafc563c6a198a95h€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDD‚Ø
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".;Ájava"S1149:MAJORROPENZ d2d3c6d79083a6e41332ed07b75dbc50h€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDE‚Ø
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".e›java"S106:MAJORROPENZ f89b7db6af5b1c30b3f82700ff04bf35h€ÙÊ”š/r
+CODE_SMELLzAXmily-DAkZ6yHwg_hDH‚³
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson8.java9Replace this use of System.out or System.err by a logger.Œ

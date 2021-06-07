@@ -1,0 +1,41 @@
+Ñcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hR8‚y
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.java-11 duplicated blocks of code must be removed.java"S1192:CRITICALROPENZ 3eefbae67789e41e327c02f31382e449h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hR9‚¤
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaTDefine a constant instead of duplicating this literal "question_2_solution" 9 times.,Œjava"S1192:CRITICALROPENZ 6c130c1d7ddbe0cb8fa569e19e5c684dh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hR-‚ 
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaPDefine a constant instead of duplicating this literal "lessonCompleted" 5 times.0java"S1192:CRITICALROPENZ a21bd951406116d45308f9fcb5e6188bh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hR_‚¤
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaTDefine a constant instead of duplicating this literal "question_3_solution" 9 times.-‡java"S1192:CRITICALROPENZ 1548639b57343734dacfe690a2317adfh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSA‚›
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaKDefine a constant instead of duplicating this literal "/cia/quiz" 13 times.)java"S1192:CRITICALROPENZ b7e82047480eac0fbf1af6924a1bf847h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSB‚¤
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaTDefine a constant instead of duplicating this literal "question_0_solution" 9 times.*‡java"S1192:CRITICALROPENZ d85c0c217f9faf0ef4c5f80548a4ee23h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSC‚›
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaKDefine a constant instead of duplicating this literal "Solution 2" 9 times.'ˆjava"S1192:CRITICALROPENZ ff4fdc58631c074d06c63535f453d78ah€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSD‚œ
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaLDefine a constant instead of duplicating this literal "Solution 1" 15 times.%‡java"S1192:CRITICALROPENZ 7c53705f143d4b9a922809e3cf9a4fc7h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSE‚›
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaKDefine a constant instead of duplicating this literal "Solution 4" 6 times.&‡java"S1192:CRITICALROPENZ ed2a2fb11684669e61b4d7d5cf9c90efh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSF‚›
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaKDefine a constant instead of duplicating this literal "Solution 3" 6 times.$java"S1192:CRITICALROPENZ 0c98b07887cef057ed5b02d3f1fd6049h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSG‚¤
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaTDefine a constant instead of duplicating this literal "question_1_solution" 9 times.+şjava"S112:MAJORROPENZ d4348154d45f1342db07f8250ec0ed5fh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSH‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.#şjava"S112:MAJORROPENZ 161e23881c03063f330a69c2dc04e977h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSI‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.4şjava"S112:MAJORROPENZ be1acefe5d6c6e41a937d52b82bf688ch€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSJ‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.Eşjava"S112:MAJORROPENZ d859f79a2b6752df1167b085d2bb1e79h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSK‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.Vşjava"S112:MAJORROPENZ 7ff80658c427201e4a6f06e63f96cd8fh€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSL‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.gşjava"S112:MAJORROPENZ e2c81a571fc71adbd93822b4136e21d6h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSM‚–
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.xÿjava"S112:MAJORROPENZ b1091f0f9105663b898b59c1ee1c39f7h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSN‚—
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.ÿjava"S112:MAJORROPENZ ef35fe84f4fdc897e2614f282175eb07h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSO‚—
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.¢ÿjava"S112:MAJORROPENZ bb8ed567a9cd7b5d26be6e59ed0b8231h€ÙÊ”š/r
+CODE_SMELLzAXmil0tjAkZ6yHwg_hSP‚—
+Hwebgoat-lessons/cia/src/test/java/org/owasp/webgoat/cia/CIAQuizTest.javaFDefine and throw a dedicated exception instead of using a generic one.·

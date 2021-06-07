@@ -1,0 +1,29 @@
+
+s
+AXmil2nMAkZ6yHwg_hfb
+java:S16042"(Make this anonymous inner class a lambda(…‘Ζδόÿÿÿÿ8€ΩΚ”/RMAJORZ
+CODE_SMELL
+r
+AXmil2nMAkZ6yHwg_hfc
+java:S1612@",Replace this lambda with a method reference.(¨°ώ8€ΩΚ”/RMINORZ
+CODE_SMELL
+e
+java:S3655I"7Call "Optional#isPresent()" before accessing the value.(τ»κοόÿÿÿÿ8ΖΦ/RMAJORZBUG
+c
+java:S6212."/Declare this local variable with "var" instead.(“‡οωÿÿÿÿ8ΖΦ/RINFOZ
+CODE_SMELL
+a
+java:S1612A",Replace this lambda with a method reference.(Θ€Άδύÿÿÿÿ8ΖΦ/RMINORZ
+CODE_SMELL
+a
+java:S1612A",Replace this lambda with a method reference.(Θ€Άδύÿÿÿÿ8ΖΦ/RMINORZ
+CODE_SMELL
+\
+java:S1612B",Replace this lambda with a method reference.(κ―¤Β8ΖΦ/RMINORZ
+CODE_SMELL
+a
+java:S1612C",Replace this lambda with a method reference.(λ‘ΟΤώÿÿÿÿ8ΖΦ/RMINORZ
+CODE_SMELL
+[
+java:S1612D",Replace this lambda with a method reference.(όΠϊ$8ΖΦ/RMINORZ
+CODE_SMELL

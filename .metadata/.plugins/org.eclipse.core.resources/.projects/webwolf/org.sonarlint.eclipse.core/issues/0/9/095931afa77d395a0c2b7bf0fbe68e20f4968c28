@@ -1,0 +1,18 @@
+
+
+AXmil2_SAkZ6yHwg_hk0
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+r
+AXmil2_SAkZ6yHwg_hk1
+java:S1612Q",Replace this lambda with a method reference.(‘‹©™8€ÙÊ”š/RMINORZ
+CODE_SMELL
+^
+java:S6212O"/Declare this local variable with "var" instead.(¹ŠÍ¸8ıœš/RINFOZ
+CODE_SMELL
+m
+java:S3878S"8Remove this array creation and simply pass the elements.(øµ¢éıÿÿÿÿ8ıœš/RMINORZ
+CODE_SMELL
+c
+java:S6212z"/Declare this local variable with "var" instead.(ñ°¢Ñşÿÿÿÿ8ıœš/RINFOZ
+CODE_SMELL

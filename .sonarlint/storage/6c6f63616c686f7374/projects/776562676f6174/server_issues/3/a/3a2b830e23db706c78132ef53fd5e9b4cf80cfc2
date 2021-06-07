@@ -1,0 +1,7 @@
+õjava"S1128:MINORROPENZ 6f2b608b8c1eaf1ed4dcd2f9e869c3a5h€ÙÊ”š/r
+CODE_SMELLzAXmil2p0AkZ6yHwg_hgG‚Œ
+Lwebgoat-container/src/main/java/org/owasp/webgoat/DatabaseConfiguration.java8Remove this unused import 'java.util.function.Supplier'.‘java"S1128:MINORROPENZ 4ab50329b814c0630173d5508e86b204h€ÙÊ”š/r
+CODE_SMELLzAXmil2p0AkZ6yHwg_hgH‚¨
+Lwebgoat-container/src/main/java/org/owasp/webgoat/DatabaseConfiguration.javaTRemove this unused import 'org.flywaydb.core.api.configuration.FluentConfiguration'.õjava"S1128:MINORROPENZ de7f9fd5b86322471f4970b903c58ccah€ÙÊ”š/r
+CODE_SMELLzAXmil2p0AkZ6yHwg_hgI‚Œ
+Lwebgoat-container/src/main/java/org/owasp/webgoat/DatabaseConfiguration.java8Remove this unused import 'java.util.function.Consumer'.

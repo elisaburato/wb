@@ -1,0 +1,5 @@
+ java"S1858:MINORROPENZ 76cb1e1bab69a3b15f4407742525b694h€ÙÊ”š/r
+CODE_SMELLzAXmil0nnAkZ6yHwg_hRr‚·
+dwebgoat-lessons/insecure-login/src/main/java/org/owasp/webgoat/insecure_login/InsecureLoginTask.javaK"username" is already a string, there's no need to call "toString()" on it.& java"S1858:MINORROPENZ 76cb1e1bab69a3b15f4407742525b694h€ÙÊ”š/r
+CODE_SMELLzAXmil0nnAkZ6yHwg_hRs‚·
+dwebgoat-lessons/insecure-login/src/main/java/org/owasp/webgoat/insecure_login/InsecureLoginTask.javaK"password" is already a string, there's no need to call "toString()" on it.&

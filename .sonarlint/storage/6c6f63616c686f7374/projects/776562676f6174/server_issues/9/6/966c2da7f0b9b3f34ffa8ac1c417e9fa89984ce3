@@ -1,0 +1,41 @@
+òjava"S1192:CRITICALROPENZ a5273108fbe308c07561abf4bcbae81bhÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLRÇ¨
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaSDefine a constant instead of duplicating this literal "/JWT/votings/login" 4 times.[íjava"S1192:CRITICALROPENZ 7fde5a7d9c613897cbdd4ec594ac63c4hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLSÇ¶
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaMDefine a constant instead of duplicating this literal "/JWT/votings" 7 times.Jíjava"S1192:CRITICALROPENZ fb6298829fb150f32ff7c2e12e6bfcb3hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLTÇ¶
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaMDefine a constant instead of duplicating this literal "access_token" 9 times.Lòjava"S1192:CRITICALROPENZ 0fbc6f46cc719c60ea4822bacf80e851hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLUÇ¨
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaSDefine a constant instead of duplicating this literal "$[0].numberOfVotes" 4 times.nãjava"S1192:CRITICALROPENZ c0a3f48ac58c85a6fe0b43214584da9dhÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLVÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine a constant instead of duplicating this literal "admin" 3 times.Eòjava"S1192:CRITICALROPENZ 6d44c715513a094f2467103ba7571acfhÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLWÇ¨
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaSDefine a constant instead of duplicating this literal "$[0].votingAllowed" 4 times.oíjava"S1192:CRITICALROPENZ 21a10e6086633322606eeb3ed7a4ffe4hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLXÇ¶
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaMDefine a constant instead of duplicating this literal "$[0].average" 4 times.pßjava"S1192:CRITICALROPENZ f38ec448d6a78bc13cc738f626c7aa27hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLYÇª
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaaDefine a constant instead of duplicating this literal "/JWT/votings/Admin lost password" 3 times.öájava"S112:MAJORROPENZ 2472e023b3798f47263fc7979d48db6dhÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLZÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Bájava"S112:MAJORROPENZ 69bee4e831abdd21d0bd2c2d0f09cc15hÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLaÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Rájava"S112:MAJORROPENZ f52e763b05f2ec45dd56ba69064c91cahÄŸ îö/r
+CODE_SMELLzAXmilznHAkZ6yHwg_hLbÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Zájava"S112:MAJORROPENZ 39d90ce984df3ed7ec069ea729e10d84hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLcÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.bájava"S112:MAJORROPENZ d54e84993177b4d114b2a3cb91dfdac7hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLdÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.jájava"S112:MAJORROPENZ aa06386efd95637c66d30c61a36dc6f6hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLeÇü
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.tàjava"S112:MAJORROPENZ 55256c5aa8be937b9217655db22fae54hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLfÇ†
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Éàjava"S112:MAJORROPENZ 5b927d2eb216ba5ca61a0f5c1ecc30a1hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLgÇ†
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.çàjava"S112:MAJORROPENZ 1b329a3c9fc02e95858ce0af33a94935hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLhÇ†
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.∞àjava"S112:MAJORROPENZ 1f9ac65799f1d73d63d0c5affd3e9f7fhÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLiÇ†
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.∑àjava"S112:MAJORROPENZ b84b2897f337378744e91ba9a29635b6hÄŸ îö/r
+CODE_SMELLzAXmilznIAkZ6yHwg_hLjÇ†
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.√äjava"S2259:MAJORROPENZ 0ea4f61c9554571bf19ef91f7d625060hÄŸ îö/rBUGzAXmilznIAkZ6yHwg_hLkÇ®
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaNA "NullPointerException" could be thrown; "findNodeByTitle()" can return null.òäjava"S2259:MAJORROPENZ 5004ff240e231b19515629d9b5e07407hÄŸ îö/rBUGzAXmilznIAkZ6yHwg_hLlÇ®
+Qwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.javaNA "NullPointerException" could be thrown; "findNodeByTitle()" can return null.°

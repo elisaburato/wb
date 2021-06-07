@@ -1,0 +1,37 @@
+ßjava"S112:MAJORROPENZ 65f6439e927059a44aab378cf38c13e4hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCDÇø
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.javaFDefine and throw a dedicated exception instead of using a generic one.xëjava"S3740:MAJORROPENZ 28dbb03ae00563cd693125fb604287fahÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCEÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.Lëjava"S3740:MAJORROPENZ 7a26bfbf0862a2be8801e662628f6dd1hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCFÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.Rëjava"S3740:MAJORROPENZ 7d9cf7460a87c2439a7433d3ce64c757hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCGÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.^ëjava"S3740:MAJORROPENZ d8771e9f3ee9632d6f14ec8ce1840fe7hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCHÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.`ëjava"S3740:MAJORROPENZ d8771e9f3ee9632d6f14ec8ce1840fe7hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCIÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.`ëjava"S3740:MAJORROPENZ 14b911af6742dc1cb78e161c5074e750hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCJÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.cëjava"S3740:MAJORROPENZ 2c8881f45c4fd9fea3dc8d38bf3d68a6hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCKÇ®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java/Provide the parametrized type for this generic.f˛java"S1643:MINORROPENZ 4cdc66e20f18468d92810b0818aa51fehÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCLÇï
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.javaUse a StringBuilder instead.S†java"S1155:MINORROPENZ 57673f992f2f44666d0b63e017dc4995hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCMÇ∑
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java>Use isEmpty() to check whether the collection is empty or not.N†java"S1155:MINORROPENZ fe11c5b5f8fb3449b6d363bcd822c247hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCNÇ∑
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java>Use isEmpty() to check whether the collection is empty or not.P≈java"S1488:MINORROPENZ 2c8881f45c4fd9fea3dc8d38bf3d68a6hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCOÇ‹
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.javacImmediately return this expression instead of assigning it to the temporary variable "diagnostics".fõjava"S5857:MINORROPENZ 088fb678683ce5a594adecedab71e91bhÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCPÇ≤
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java9Replace this use of a reluctant quantifier with "[^>]*+".9újava"S1854:MAJORROPENZ e429d271b1428fef97702397415a7838hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCQÇ≥
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java:Remove this useless assignment to local variable "result".eújava"S1161:MAJORROPENZ e4d44f915becc09c0ce386b304b7621bhÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCSÇ≥
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java:Add the "@Override" annotation above this method signature}∞java"S100:MINORROPENZ fe6d8e4759501eedc92308dd074ec9d9hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCTÇ»
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.Ç§java"S1126:MINORROPENZ 166b2f81a9aa09e17ad779c0a4906e22hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCUÇª
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.javaAReplace this if-then-else statement by a single return statement.Öçjava"S1481:MINORROPENZ e429d271b1428fef97702397415a7838hÄŸ îö/r
+CODE_SMELLzAXmily61AkZ6yHwg_hCVÇ§
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/SqlInjectionLesson10b.java+Remove this unused "result" local variable.e

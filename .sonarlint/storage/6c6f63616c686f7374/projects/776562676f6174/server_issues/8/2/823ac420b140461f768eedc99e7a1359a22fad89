@@ -1,0 +1,19 @@
+§java"S1192:CRITICALROPENZ f7d0343f8ad7110d8fa56e63591f9c01h€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXh‚»
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javaMDefine a constant instead of duplicating this literal "secQuestion0" 7 times.&§java"S1192:CRITICALROPENZ e34718e13c3b72851cf30df15eb9b11eh€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXi‚»
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javaMDefine a constant instead of duplicating this literal "secQuestion1" 7 times.'Ïjava"S1319:MINORROPENZ f664addff105e512bc96015d169f981eh€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXj‚æ
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javaxThe type of the "submittedAnswers" object should be an interface such as "Map" rather than the implementation "HashMap".2Ñjava"S1319:MINORROPENZ 8ea6b66ba53ca5b1eada6dee7e4b4bd0h€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXk‚è
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javazThe type of the "submittedQuestions" object should be an interface such as "Map" rather than the implementation "HashMap".E†java"S3740:MAJORROPENZ 583e47357fd61b24b6b6c9846996cddfh€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXl‚
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.java/Provide the parametrized type for this generic.*³java"S115:CRITICALROPENZ 8d95cc7e4fec634b418120d9467ae2deh€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXm‚È
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'."‘java"S1854:MAJORROPENZ 2e462b60f6a41887428eff7cafedb4dch€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXn‚¨
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.java:Remove this useless assignment to local variable "likely".6„java"S1172:MAJORROPENZ 8ea6b66ba53ca5b1eada6dee7e4b4bd0h€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXo‚›
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.java-Remove this unused method parameter "userId".E˜java"S1126:MINORROPENZ e935bc8ac61a5cb0e80c2d12f9eb9cc2h€ÙÊ”š/r
+CODE_SMELLzAXmil1nKAkZ6yHwg_hXp‚¯
+fwebgoat-lessons/auth-bypass/src/main/java/org/owasp/webgoat/auth_bypass/AccountVerificationHelper.javaAReplace this if-then-else statement by a single return statement.O

@@ -1,0 +1,15 @@
+™java"S112:MAJORROPENZ b9e250ad79c282b2b3708f6e216d41cdh€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hB7‚±
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.javaFDefine and throw a dedicated exception instead of using a generic one.Cújava"S1068:MAJORROPENZ ee3f46bd0b41b4959ac9ec252d871036h€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hB9‚‘
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java&Remove this unused "id" private field.5€java"S1068:MAJORROPENZ a7530665071f24ff1a9052578197759bh€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hB-‚—
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java,Remove this unused "hostname" private field.6újava"S1068:MAJORROPENZ b7bff0543038d662861d9587f586b269h€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hB_‚‘
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java&Remove this unused "ip" private field.7ûjava"S1068:MAJORROPENZ 1d851bce0d551dc744df15297dd46b59h€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hCA‚’
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java'Remove this unused "mac" private field.8þjava"S1068:MAJORROPENZ 984e8294e40a5066e73ed45c08850ae3h€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hCB‚•
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java*Remove this unused "status" private field.9ƒjava"S1068:MAJORROPENZ 4ab033476c079eebcf611713b54c4d2fh€ÙÊ”š/r
+CODE_SMELLzAXmily6ZAkZ6yHwg_hCC‚š
+cwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/mitigation/Servers.java/Remove this unused "description" private field.:

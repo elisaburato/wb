@@ -1,0 +1,7 @@
+¨java"S117:MINORROPENZ 4f6062678d93ea40d917204e6cd92714h€ÙÊ”š/r
+CODE_SMELLzAXmilyhUAkZ6yHwg_g_b‚À
+gwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson1.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.'»java"S1157:MINORROPENZ 802a370d198628a4b580ce82e6146523h€ÙÊ”š/r
+CODE_SMELLzAXmilyhUAkZ6yHwg_g_c‚Ò
+gwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson1.javacReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(§java"S1858:MINORROPENZ 802a370d198628a4b580ce82e6146523h€ÙÊ”š/r
+CODE_SMELLzAXmilyhUAkZ6yHwg_g_d‚¾
+gwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson1.javaO"answer_xss_1" is already a string, there's no need to call "toString()" on it.(

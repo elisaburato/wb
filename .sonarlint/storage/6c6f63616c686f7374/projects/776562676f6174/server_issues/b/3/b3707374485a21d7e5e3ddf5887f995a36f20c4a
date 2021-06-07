@@ -1,0 +1,7 @@
+Öjava"S1192:CRITICALROPENZ 5e3f268d4bcfc1622a5003c44167356bhÄŸ îö/r
+CODE_SMELLzAXmil1q7AkZ6yHwg_hYKÇô
+Hwebgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORLogin.javaIDefine a constant instead of duplicating this literal "password" 3 times..«java"S2293:MINORROPENZ ed52ea40f9fd4b864f3c1f7db692d550hÄŸ îö/r
+CODE_SMELLzAXmil1q8AkZ6yHwg_hYLÇﬁ
+Hwebgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORLogin.javaçReplace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)-«java"S2293:MINORROPENZ 02933bc98da8fa527662cbd663428150hÄŸ îö/r
+CODE_SMELLzAXmil1q8AkZ6yHwg_hYNÇﬁ
+Hwebgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORLogin.javaçReplace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)3

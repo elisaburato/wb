@@ -1,0 +1,25 @@
+Àjava"S1192:CRITICALROPENZ 90a8f3fcd602d5cc04d06969b237af59h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSb‚Ô
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.java_Define a constant instead of duplicating this literal "/HttpProxies/intercept-request" 5 times.4ªjava"S1192:CRITICALROPENZ d8b015dbf0240950ac2eeb350d12790ah€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSc‚¾
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaIDefine a constant instead of duplicating this literal "changeMe" 4 times.6Àjava"S1192:CRITICALROPENZ 7ae769cea66e8987768b0e10df4cafa7h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSd‚Ô
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.java_Define a constant instead of duplicating this literal "http-proxies.intercept.failure" 4 times.B¾java"S1192:CRITICALROPENZ d8b015dbf0240950ac2eeb350d12790ah€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSe‚Ò
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.java]Define a constant instead of duplicating this literal "Requests are tampered easily" 4 times.6¬java"S1192:CRITICALROPENZ 56d77cc704f532d48e56c8661c4ff81dh€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSf‚À
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 5 times.8·java"S1192:CRITICALROPENZ 5a1725ef7867ad5a24e143c1fbb985d7h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSg‚Ë
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaVDefine a constant instead of duplicating this literal "x-request-intercepted" 4 times.5³java"S1192:CRITICALROPENZ 4dae69a7990c163ff42c2213c622a0bfh€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSh‚Ç
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 5 times.9£java"S112:MAJORROPENZ 56950cfaa587b8d1a3e266a28455b453h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSi‚»
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaFDefine and throw a dedicated exception instead of using a generic one.3£java"S112:MAJORROPENZ 8f6c4c03fbbd0dbb010aa26d90c6fb3fh€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSj‚»
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaFDefine and throw a dedicated exception instead of using a generic one.=£java"S112:MAJORROPENZ 72a26676258120e05ce3cd43242b8e16h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSk‚»
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaFDefine and throw a dedicated exception instead of using a generic one.G£java"S112:MAJORROPENZ 5c1ca5ae41fd613f07eef91ddbb8479ch€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSl‚»
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaFDefine and throw a dedicated exception instead of using a generic one.P£java"S112:MAJORROPENZ 1cd3a93b18bb1751c3ddc1463d432489h€ÙÊ”š/r
+CODE_SMELLzAXmil0yuAkZ6yHwg_hSm‚»
+mwebgoat-lessons/http-proxies/src/test/java/org/owasp/webgoat/http_proxies/HttpBasicsInterceptRequestTest.javaFDefine and throw a dedicated exception instead of using a generic one.Y

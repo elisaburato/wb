@@ -1,0 +1,13 @@
+ºjava"S1192:CRITICALROPENZ 1ff2679ca740af0a2e03316e52521dfehÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_yÇ–
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.javaeDefine a constant instead of duplicating this literal "/CrossSiteScriptingStored/stored-xss" 3 times.9ôjava"S112:MAJORROPENZ 56950cfaa587b8d1a3e266a28455b453hÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_zÇ±
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.javaFDefine and throw a dedicated exception instead of using a generic one.8ôjava"S112:MAJORROPENZ 8f6c4c03fbbd0dbb010aa26d90c6fb3fhÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_0Ç±
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.javaFDefine and throw a dedicated exception instead of using a generic one.Bôjava"S112:MAJORROPENZ bbb2e719b2f562ced60d7f0b17760c11hÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_1Ç±
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.javaFDefine and throw a dedicated exception instead of using a generic one.Rèjava"S125:MAJORROPENZ c0d8d2a32ae2d0447448b10622d149aahÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_2Çß
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.java<This block of commented-out lines of code should be removed.Lèjava"S125:MAJORROPENZ ecb41d2b685739ed47b28e9ed64f83b0hÄŸ îö/r
+CODE_SMELLzAXmilyn4AkZ6yHwg_g_3Çß
+cwebgoat-lessons/cross-site-scripting/src/test/java/org/owasp/webgoat/xss/StoredXssCommentsTest.java<This block of commented-out lines of code should be removed.[

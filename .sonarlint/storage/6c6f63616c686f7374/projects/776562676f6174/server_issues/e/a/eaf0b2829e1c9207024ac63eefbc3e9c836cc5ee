@@ -1,0 +1,23 @@
+¿java"S1192:CRITICALROPENZ 0d88aa8d6739744b2ff2dc6011cb74e6h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYX‚Ó
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.java^Define a constant instead of duplicating this literal "/InsecureDeserialization/task" 6 times.#¬java"S1192:CRITICALROPENZ f77fce60767f0374be70dd6602f78ea7h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYY‚À
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 3 times.>·java"S1192:CRITICALROPENZ 5a1725ef7867ad5a24e143c1fbb985d7h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYZ‚Ë
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaVDefine a constant instead of duplicating this literal "x-request-intercepted" 6 times.$§java"S1192:CRITICALROPENZ 69e061c9090714e6305c2f875b3ce406h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYa‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine a constant instead of duplicating this literal "token" 6 times.%³java"S1192:CRITICALROPENZ 3ad3a53ca6e18b576e4b310b1103b09ch€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYb‚Ç
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 6 times.&£java"S112:MAJORROPENZ 56950cfaa587b8d1a3e266a28455b453h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYc‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine and throw a dedicated exception instead of using a generic one.!£java"S112:MAJORROPENZ 693ba060eb7bb322d2dfbb267af03a07h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYd‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine and throw a dedicated exception instead of using a generic one.0£java"S112:MAJORROPENZ ffeb9a8aa71f1f19bdecdca201e44e3dh€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYe‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine and throw a dedicated exception instead of using a generic one.8£java"S112:MAJORROPENZ 1d648c48f49ba4adcebc9350a9bbbfb8h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYf‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine and throw a dedicated exception instead of using a generic one.C£java"S112:MAJORROPENZ 1b5c1b9699d7f65b55c845c38295c954h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYg‚»
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaFDefine and throw a dedicated exception instead of using a generic one.P«java"S3008:MINORROPENZ 38cc82e67a5024a805d50056da2a3f32h€ÙÊ”š/r
+CODE_SMELLzAXmil1xoAkZ6yHwg_hYh‚Â
+mwebgoat-lessons/insecure-deserialization/src/test/java/org/owasp/webgoat/deserialization/DeserializeTest.javaMRename this field "OS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.

@@ -1,0 +1,23 @@
+ícommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hNy‚”
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.java,1 duplicated blocks of code must be removed.£java"S1192:CRITICALROPENZ 4b3ddd69b88fa1fcd10a7aa149f4f9f9h€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hNz‚·
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaKDefine a constant instead of duplicating this literal "text/plain" 4 times.#¥java"S1192:CRITICALROPENZ 4b3ddd69b88fa1fcd10a7aa149f4f9f9h€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hN0‚¹
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaMDefine a constant instead of duplicating this literal "uploadedFile" 4 times.#¡java"S1192:CRITICALROPENZ 29f07852053104e2d9a81792af5037a8h€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hN1‚µ
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaIDefine a constant instead of duplicating this literal "fullName" 4 times.'¶java"S1192:CRITICALROPENZ e8ef594a6e5c3fe120c6069da710e7fbh€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hN2‚Ê
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.java^Define a constant instead of duplicating this literal "/PathTraversal/profile-upload" 4 times.%ªjava"S1192:CRITICALROPENZ 4dae69a7990c163ff42c2213c622a0bfh€ÙÊ”š/r
+CODE_SMELLzAXmilz8VAkZ6yHwg_hN3‚¾
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 3 times.*¡java"S1192:CRITICALROPENZ 4b3ddd69b88fa1fcd10a7aa149f4f9f9h€ÙÊ”š/r
+CODE_SMELLzAXmilz8WAkZ6yHwg_hN4‚µ
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaIDefine a constant instead of duplicating this literal "an image" 4 times.#šjava"S112:MAJORROPENZ ce28ba5d985b854f949f07538400a8f5h€ÙÊ”š/r
+CODE_SMELLzAXmilz8WAkZ6yHwg_hN5‚²
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaFDefine and throw a dedicated exception instead of using a generic one."šjava"S112:MAJORROPENZ 992e2d46f6269d413249259aceac8916h€ÙÊ”š/r
+CODE_SMELLzAXmilz8WAkZ6yHwg_hN6‚²
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaFDefine and throw a dedicated exception instead of using a generic one..šjava"S112:MAJORROPENZ b6beaf5245924241a6b1a13ffb3cc793h€ÙÊ”š/r
+CODE_SMELLzAXmilz8WAkZ6yHwg_hN7‚²
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaFDefine and throw a dedicated exception instead of using a generic one.;šjava"S112:MAJORROPENZ 13f9ecc3289aeb7b18195efc5cb9f091h€ÙÊ”š/r
+CODE_SMELLzAXmilz8WAkZ6yHwg_hN8‚²
+dwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadTest.javaFDefine and throw a dedicated exception instead of using a generic one.G

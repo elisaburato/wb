@@ -1,0 +1,9 @@
+”java"S1604:MAJORROPENZ e20761a200c0e52d7fed57fb938fec15h€ÙÊ”š/r
+CODE_SMELLzAXmil2nMAkZ6yHwg_hfb‚«
+Gwebgoat-container/src/main/java/org/owasp/webgoat/users/Scoreboard.java\Make this anonymous inner class a lambda (sonar.java.source not set. Assuming 8 or greater.)2˜java"S1612:MINORROPENZ a08daf0654524e842dd2bcdc305b331eh€ÙÊ”š/r
+CODE_SMELLzAXmil2nMAkZ6yHwg_hfc‚¯
+Gwebgoat-container/src/main/java/org/owasp/webgoat/users/Scoreboard.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)@ãjava"S1068:MAJORROPENZ e7582a281bf492f7d35360548f0218cdh€ÙÊ”š/r
+CODE_SMELLzAXmil2nMAkZ6yHwg_hfd‚{
+Gwebgoat-container/src/main/java/org/owasp/webgoat/users/Scoreboard.java,Remove this unused "username" private field.!éjava"S1068:MAJORROPENZ b2cb9c81ab160716b91df2f77601ca77h€ÙÊ”š/r
+CODE_SMELLzAXmil2nMAkZ6yHwg_hfe‚€
+Gwebgoat-container/src/main/java/org/owasp/webgoat/users/Scoreboard.java1Remove this unused "flagsCaptured" private field."

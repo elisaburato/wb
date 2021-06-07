@@ -1,0 +1,5 @@
+Ðcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil29rAkZ6yHwg_hkb‚x
+Hwebwolf/src/main/java/org/owasp/webwolf/user/RegistrationController.java,1 duplicated blocks of code must be removed.òjava"S1068:MAJORROPENZ 27b729a74d77ef8a5d5d4288c05e2802h€ÙÊ”š/r
+CODE_SMELLzAXmil29rAkZ6yHwg_hkc‚‰
+Hwebwolf/src/main/java/org/owasp/webwolf/user/RegistrationController.java9Remove this unused "authenticationManager" private field.1

@@ -1,0 +1,5 @@
+Ùcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil2S8AkZ6yHwg_hdo‚€
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/GeneralLessonTest.java,1 duplicated blocks of code must be removed.java"S1192:CRITICALROPENZ 6feba75e262b0b0272b7c270362df0ach€ÙÊ”š/r
+CODE_SMELLzAXmil2S8AkZ6yHwg_hdp‚£
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/GeneralLessonTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 3 times.*

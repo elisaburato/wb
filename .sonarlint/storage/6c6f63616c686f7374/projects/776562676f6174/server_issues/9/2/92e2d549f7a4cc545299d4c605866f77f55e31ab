@@ -1,0 +1,3 @@
+„java"S5361:CRITICALROPENZ fc7d158fabcf3656a7a2577862fbbb2dh€ÙÊ”š/r
+CODE_SMELLzAXmil12DAkZ6yHwg_hZZ‚˜
+Hwebgoat-lessons/ssrf/src/main/java/org/owasp/webgoat/ssrf/SSRFTask2.javaHReplace this call to "replaceAll()" by a call to the "replace()" method.7

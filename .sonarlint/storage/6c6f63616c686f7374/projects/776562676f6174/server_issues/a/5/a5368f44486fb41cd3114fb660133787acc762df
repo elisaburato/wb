@@ -1,0 +1,39 @@
+éjava"S1192:CRITICALROPENZ 352b0686ce704b5a3b82ce79ced7b9fahÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdIÇ¢
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaLDefine a constant instead of duplicating this literal "JSESSIONID" 14 times.eãjava"S1192:CRITICALROPENZ 656540d7bc443326cbc7171ea7e09032hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdJÇü
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaIDefine a constant instead of duplicating this literal "password" 9 times.cìjava"S1192:CRITICALROPENZ b9ed81b2e212b7962b0fb1c7b505f99chÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdKÇß
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaPDefine a constant instead of duplicating this literal "lessonCompleted" 4 times.…åjava"S1192:CRITICALROPENZ 36c89bbae2088e71829b29f30f624a70hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdLÇ†
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaJDefine a constant instead of duplicating this literal "127.0.0.1" 3 times.àjava"S1192:CRITICALROPENZ 3fb7468467508653c4252f6a2c4f2245hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdMÇú
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaFDefine a constant instead of duplicating this literal "login" 3 times.díjava"S1192:CRITICALROPENZ c2209e7f3d71960c3469c51219389862hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdNÇ¶
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaODefine a constant instead of duplicating this literal "WEBWOLFSESSION" 3 times.âãjava"S1192:CRITICALROPENZ 45a8b6035a420779b52bf852a541ee07hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdOÇü
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaIDefine a constant instead of duplicating this literal "username" 4 times.bëjava"S3008:MINORROPENZ 066cb66845a99baabff52cd0adc646bbhÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdPÇ®
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaRRename this field "WG_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.ëjava"S3008:MINORROPENZ c031b62dcdf632b9cc72755018554a55hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdQÇ®
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaRRename this field "WW_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.öjava"S3008:MINORROPENZ 36c89bbae2088e71829b29f30f624a70hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdRÇ±
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java[Rename this field "WEBGOAT_HOSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.öjava"S3008:MINORROPENZ 0b24a1d10175b405d64ed46d677a2ccchÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdSÇ±
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java[Rename this field "WEBWOLF_HOSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.újava"S3008:MINORROPENZ baeb3496c750d5c53a49f08174fd0298hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdTÇ≥
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java]Rename this field "WEBGOAT_HOSTHEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.$újava"S3008:MINORROPENZ 1335ead96fcee17db3c84a3cbf573a69hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdUÇ≥
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java]Rename this field "WEBWOLF_HOSTHEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.%ïjava"S3008:MINORROPENZ 10617acfe09cfb4fea9d66d2eefa4760hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdVÇ¨
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaVRename this field "WEBGOAT_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.&ïjava"S3008:MINORROPENZ c51b797cc4f37dfe250fcf20205f7570hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdWÇ¨
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaVRename this field "WEBWOLF_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.'êjava"S3008:MINORROPENZ 051f2a98ed82c12fb081b37a05721c6ehÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdXÇß
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.javaQRename this field "WG_SSL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˙java"S125:MAJORROPENZ 36c89bbae2088e71829b29f30f624a70hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdYÇí
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java<This block of commented-out lines of code should be removed.˙java"S125:MAJORROPENZ 0b24a1d10175b405d64ed46d677a2ccchÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdZÇí
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java<This block of commented-out lines of code should be removed.Òjava"S1135:INFOROPENZ 932fcbfe48c4170ab0383b448c95dfb4hÄŸ îö/r
+CODE_SMELLzAXmil2PMAkZ6yHwg_hdaÇâ
+Nwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IntegrationTest.java2Complete the task associated to this TODO comment.‚

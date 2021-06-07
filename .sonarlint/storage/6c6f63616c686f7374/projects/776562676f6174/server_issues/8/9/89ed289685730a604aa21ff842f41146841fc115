@@ -1,0 +1,9 @@
+Üjava"S1128:MINORROPENZ 4e0a8d7d671653ed8c15faf7a59cf54dhÄŸ îö/r
+CODE_SMELLzAXmil284AkZ6yHwg_hkSÇù
+Fwebwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.javaORemove this unused import 'org.springframework.security.core.userdetails.User'. ˆjava"S1128:MINORROPENZ 9f0a26f60c782d9e90f8da067c03a13bhÄŸ îö/r
+CODE_SMELLzAXmil284AkZ6yHwg_hkTÇç
+Fwebwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.java?Remove this unused import 'org.owasp.webwolf.user.WebGoatUser'.˘java"S1128:MINORROPENZ ed90d072d3d182a7443626793190b392hÄŸ îö/r
+CODE_SMELLzAXmil284AkZ6yHwg_hkUÇê
+Fwebwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.javaBRemove this unused import 'org.owasp.webwolf.user.UserRepository'.ﬂjava"S1452:CRITICALROPENZ 5864a1432cdc0e7294909dd2d255f2aahÄŸ îö/r
+CODE_SMELLzAXmil284AkZ6yHwg_hkVÇt
+Fwebwolf/src/main/java/org/owasp/webwolf/mailbox/MailboxController.java&Remove usage of generic wildcard type.@

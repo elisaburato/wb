@@ -1,0 +1,5 @@
+Ðcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil2m-AkZ6yHwg_hfZ‚x
+Hwebgoat-container/src/main/java/org/owasp/webgoat/users/WebGoatUser.java,2 duplicated blocks of code must be removed.ájava"S1452:CRITICALROPENZ 327c071fc2366a49c8caf9daeff46266h€ÙÊ”š/r
+CODE_SMELLzAXmil2m-AkZ6yHwg_hfa‚v
+Hwebgoat-container/src/main/java/org/owasp/webgoat/users/WebGoatUser.java&Remove usage of generic wildcard type.5

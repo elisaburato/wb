@@ -1,0 +1,15 @@
+java"S1192:CRITICALROPENZ 6a0c95a56b5bac42a85b19171dfcf768h€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_hd8‚£
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 4 times.8java"S1192:CRITICALROPENZ c5c1951286da93b1ee5866c7aa2ec7f4h€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_hd9‚¡
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.javaIDefine a constant instead of duplicating this literal "test.jpg" 3 times.$”java"S1192:CRITICALROPENZ 5d8b18bdfd1b038167b25f3fddbf0edah€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_hd-‚¨
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.javaPDefine a constant instead of duplicating this literal "lessonCompleted" 3 times.>¡java"S1612:MINORROPENZ e8d13398cc826c0fb4727a233722deafh€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_hd_‚¸
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.),¡java"S1612:MINORROPENZ eb47b343da90b426523553efc7a60ee3h€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_heA‚¸
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)-¡java"S1612:MINORROPENZ 6b0aea0174138136481f64143341e6c6h€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_heB‚¸
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.).¡java"S1612:MINORROPENZ 42da448a46607be6ee84cb3db8b4972dh€ÙÊ”š/r
+CODE_SMELLzAXmil2UNAkZ6yHwg_heC‚¸
+Pwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PathTraversalTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)/

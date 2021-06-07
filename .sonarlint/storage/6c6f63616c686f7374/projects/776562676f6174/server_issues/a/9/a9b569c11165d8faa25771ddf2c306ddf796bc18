@@ -1,0 +1,7 @@
+ˆjava"S1192:CRITICALROPENZ 928b1fc0c040e5b35a3692a799fcab15h€ÙÊ”š/r
+CODE_SMELLzAXmil2UwAkZ6yHwg_heE‚œ
+Kwebgoat-integration-tests/src/test/java/org/owasp/webgoat/SeleniumTest.javaIDefine a constant instead of duplicating this literal "password" 5 times.)†java"S1192:CRITICALROPENZ f3dd0493004ad1248ad7e478d3f6e4feh€ÙÊ”š/r
+CODE_SMELLzAXmil2UwAkZ6yHwg_heF‚š
+Kwebgoat-integration-tests/src/test/java/org/owasp/webgoat/SeleniumTest.javaGDefine a constant instead of duplicating this literal "query" 14 times.Lôjava"S106:MAJORROPENZ 95da1e8df5d55e806ae2c3fa5f01318dh€ÙÊ”š/r
+CODE_SMELLzAXmil2UwAkZ6yHwg_heG‚Œ
+Kwebgoat-integration-tests/src/test/java/org/owasp/webgoat/SeleniumTest.java9Replace this use of System.out or System.err by a logger.6

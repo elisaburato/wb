@@ -1,0 +1,23 @@
+„java"S1128:MINORROPENZ 0a04c167607b9670f9500a21362a8a66h€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXq‚›
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java5Remove this unused import 'org.junit.runner.RunWith'.üjava"S1128:MINORROPENZ 4b9d8d2722a9782414debc72637562dah€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXr‚“
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java-Remove this unused import 'org.junit.Before'.Ÿjava"S1128:MINORROPENZ bb9178dcc4f9554c7f8ce13eab89f7cah€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXs‚¶
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.javaPRemove this unused import 'org.springframework.boot.test.context.TestComponent'."Žjava"S1128:MINORROPENZ 6033c9fa72585dcd64cd3f55eb9cfb9eh€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXt‚¥
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java?Remove this unused import 'org.springframework.http.MediaType'.#’java"S1128:MINORROPENZ b235bba9733c5d1f056000c936d07a8eh€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXu‚©
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.javaCRemove this unused import 'org.mockito.runners.MockitoJUnitRunner'. ¥java"S1450:MINORROPENZ 9b5d338284e05c0fbe31a19012ce571dh€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXv‚¼
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.javaVRemove the "mockMvc" field and declare it as a local variable in the relevant methods.1Šjava"S125:MAJORROPENZ 0ee6319cc2f33ea58f75ca93bf971e24h€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXw‚¢
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java<This block of commented-out lines of code should be removed.AŠjava"S125:MAJORROPENZ b60fca3a2aef7c1275b1e09c7ffc151dh€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXx‚¢
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java<This block of commented-out lines of code should be removed.MŠjava"S125:MAJORROPENZ 6051e9888c149fc90e20d238e5e0261ah€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXy‚¢
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java<This block of commented-out lines of code should be removed.R€java"S1135:INFOROPENZ fd462fdf1976f54ab599430b50a441e5h€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hXz‚˜
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java2Complete the task associated to this TODO comment.?újava"S1068:MAJORROPENZ 9b5d338284e05c0fbe31a19012ce571dh€ÙÊ”š/r
+CODE_SMELLzAXmil1nvAkZ6yHwg_hX0‚‘
+^webgoat-lessons/auth-bypass/src/test/org/owasp/webgoat/auth_bypass/BypassVerificationTest.java+Remove this unused "mockMvc" private field.1

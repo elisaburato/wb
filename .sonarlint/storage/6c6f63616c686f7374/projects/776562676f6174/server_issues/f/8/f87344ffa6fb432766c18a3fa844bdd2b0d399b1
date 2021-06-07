@@ -1,0 +1,7 @@
+Ücommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil2neAkZ6yHwg_hff‚ƒ
+Swebgoat-container/src/main/java/org/owasp/webgoat/users/RegistrationController.java,1 duplicated blocks of code must be removed.ôjava"S1128:MINORROPENZ a31289b1529efdba9fa10b1f95aa7bb6h€ÙÊ”š/r
+CODE_SMELLzAXmil2neAkZ6yHwg_hfg‚‹
+Swebgoat-container/src/main/java/org/owasp/webgoat/users/RegistrationController.java0Remove this unused import 'lombok.SneakyThrows'.ýjava"S1068:MAJORROPENZ 27b729a74d77ef8a5d5d4288c05e2802h€ÙÊ”š/r
+CODE_SMELLzAXmil2neAkZ6yHwg_hfh‚”
+Swebgoat-container/src/main/java/org/owasp/webgoat/users/RegistrationController.java9Remove this unused "authenticationManager" private field.

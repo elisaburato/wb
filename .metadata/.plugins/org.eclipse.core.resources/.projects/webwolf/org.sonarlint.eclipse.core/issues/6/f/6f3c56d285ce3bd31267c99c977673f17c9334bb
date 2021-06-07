@@ -1,0 +1,33 @@
+
+
+AXmil2-JAkZ6yHwg_hkf
+java:S1192P"FDefine a constant instead of duplicating this literal "files" 3 times.(ï¹¦8€ÙÊ”š/RCRITICALZ
+CODE_SMELL
+~
+AXmil2-JAkZ6yHwg_hki	java:S899i";Do something with the "boolean" value returned by "delete".(ŠĞÆüÿÿÿÿ8€ÙÊ”š/RMINORZBUG
+—
+AXmil2-JAkZ6yHwg_hkg
+java:S1192N"NDefine a constant instead of duplicating this literal "uploadSuccess" 3 times.(†Èüİ8€ÙÊ”š/RCRITICALZ
+CODE_SMELL
+™
+AXmil2-JAkZ6yHwg_hkh
+java:S4042i"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ŠĞÆüÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+c
+java:S6212G"/Declare this local variable with "var" instead.(™ªŠÜùÿÿÿÿ8…üœš/RINFOZ
+CODE_SMELL
+^
+java:S6212M"/Declare this local variable with "var" instead.(„æıú8…üœš/RINFOZ
+CODE_SMELL
+^
+java:S6212a"/Declare this local variable with "var" instead.(³Á˜8…üœš/RINFOZ
+CODE_SMELL
+c
+java:S6212c"/Declare this local variable with "var" instead.(‹İÿÉúÿÿÿÿ8…üœš/RINFOZ
+CODE_SMELL
+^
+java:S6212e"/Declare this local variable with "var" instead.(¥à8…üœš/RINFOZ
+CODE_SMELL
+c
+java:S6212p"/Declare this local variable with "var" instead.(ß£˜üÿÿÿÿ8…üœš/RINFOZ
+CODE_SMELL

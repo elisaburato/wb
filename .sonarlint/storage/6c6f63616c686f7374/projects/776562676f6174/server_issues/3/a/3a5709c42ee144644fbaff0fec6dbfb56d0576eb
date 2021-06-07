@@ -1,0 +1,9 @@
+–java"S112:MAJORROPENZ 6e4382157da612da97223a4294690a55h€ÙÊ”š/r
+CODE_SMELLzAXmil1DLAkZ6yHwg_hVT‚®
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge5/Assignment5.javaFDefine and throw a dedicated exception instead of using a generic one.4¡java"S117:MINORROPENZ 6e4382157da612da97223a4294690a55h€ÙÊ”š/r
+CODE_SMELLzAXmil1DLAkZ6yHwg_hVU‚¹
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge5/Assignment5.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.4¡java"S117:MINORROPENZ 6e4382157da612da97223a4294690a55h€ÙÊ”š/r
+CODE_SMELLzAXmil1DLAkZ6yHwg_hVV‚¹
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge5/Assignment5.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.4‚java"S1128:MINORROPENZ df2f30a31384444a67cab5c2a51405fbh€ÙÊ”š/r
+CODE_SMELLzAXmil1DLAkZ6yHwg_hVW‚™
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge5/Assignment5.java1Remove this unused import 'javax.sql.DataSource'.$

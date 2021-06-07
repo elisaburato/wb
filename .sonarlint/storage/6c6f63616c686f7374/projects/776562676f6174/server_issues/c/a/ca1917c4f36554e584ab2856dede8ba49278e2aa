@@ -1,0 +1,21 @@
+Ýjava"S1128:MINORROPENZ 7d060f15bab98550b96e3c8c74c36e8ch€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk0‚u
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java4Remove this unused import 'java.util.regex.Pattern'.Šjava"S1612:MINORROPENZ 73d3b039b30d5517f8708ffa781a1245h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk1‚¡
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)QÔjava"S1068:MAJORROPENZ 0e074b70ebcf8bd7a5679a872d2eece5h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk2‚l
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java+Remove this unused "encoded" private field.!Öjava"S1068:MAJORROPENZ 8fab01124c915e688581d7c6bf41eef0h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk3‚n
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java-Remove this unused "secretKey" private field."Ójava"S1068:MAJORROPENZ c32f35bc5c51e51108332f90123ebe2eh€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk4‚k
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java*Remove this unused "header" private field.#Øjava"S1068:MAJORROPENZ 4422beae8cd2da900615d804bb8a4b20h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk5‚p
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java/Remove this unused "validHeader" private field.$Ùjava"S1068:MAJORROPENZ f2b16801a5357a4f9b28387ff74564a3h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk6‚q
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java0Remove this unused "validPayload" private field.%×java"S1068:MAJORROPENZ e31af414ecbc15fb322a415b2127ff7ah€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk7‚o
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java.Remove this unused "validToken" private field.&Ôjava"S1068:MAJORROPENZ 8ca8ecc32d763c1c286b07d1492b2485h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk8‚l
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java+Remove this unused "payload" private field.'Ûjava"S1068:MAJORROPENZ 24fda39a1fbfa32ad8beedbb9d002ff6h€ÙÊ”š/r
+CODE_SMELLzAXmil2_SAkZ6yHwg_hk9‚s
+9webwolf/src/main/java/org/owasp/webwolf/jwt/JWTToken.java2Remove this unused "signatureValid" private field.(

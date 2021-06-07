@@ -1,0 +1,13 @@
+ïjava"S112:MAJORROPENZ cb5b7b68adb30cd10f516aa519f7956ahÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbPÇ≠
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.javaFDefine and throw a dedicated exception instead of using a generic one.>Øjava"S1488:MINORROPENZ 096bff112450756f0a9f628153dee876hÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbQÇ∆
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.java_Immediately return this expression instead of assigning it to the temporary variable "encoded".D¯java"S1125:MINORROPENZ e0c312e6e8aacf2b9a0a19fa5c99dc3bhÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbRÇè
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.java(Remove the unnecessary boolean literals.0Åjava"S1135:INFOROPENZ 4b9cdbe05df3819b28953623d0609d7dhÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbSÇô
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.java2Complete the task associated to this TODO comment.4Åjava"S1135:INFOROPENZ 3e4ad5615c1469306f96e35192407085hÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbTÇô
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.java2Complete the task associated to this TODO comment.8âjava"S4719:MINORROPENZ ef8c69ba13aa951a7b0d9ca6be47b919hÄŸ îö/r
+CODE_SMELLzAXmil2DhAkZ6yHwg_hbUÇ†
+_webgoat-lessons/missing-function-ac/src/main/java/org/owasp/webgoat/missing_ac/DisplayUser.java9Replace charset name argument with StandardCharsets.UTF_8C

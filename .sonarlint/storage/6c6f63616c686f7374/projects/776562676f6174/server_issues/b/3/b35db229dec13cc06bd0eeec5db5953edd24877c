@@ -1,0 +1,5 @@
+ÿjava"S1854:MAJORROPENZ 37b78056a38d9b8a393cee7820859a44h€ÙÊ”š/r
+CODE_SMELLzAXmil1pcAkZ6yHwg_hYI‚–
+Swebgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORViewOtherProfile.java;Remove this useless assignment to local variable "details".1ðjava"S1481:MINORROPENZ 37b78056a38d9b8a393cee7820859a44h€ÙÊ”š/r
+CODE_SMELLzAXmil1pcAkZ6yHwg_hYJ‚‡
+Swebgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORViewOtherProfile.java,Remove this unused "details" local variable.1

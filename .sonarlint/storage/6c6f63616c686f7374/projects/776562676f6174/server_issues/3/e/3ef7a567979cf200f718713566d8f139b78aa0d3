@@ -1,0 +1,15 @@
+´java"S1192:CRITICALROPENZ 62da895a8cb11a16ceb98a345dbec8d4h€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_e‚È
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaXDefine a constant instead of duplicating this literal "xss-reflected1-complete" 4 times.?¢java"S1192:CRITICALROPENZ 62da895a8cb11a16ceb98a345dbec8d4h€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_f‚¶
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaFDefine a constant instead of duplicating this literal "false" 3 times.?©java"S117:MINORROPENZ 0026e1378b9308599200123700a29c5bh€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_g‚Á
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.4©java"S117:MINORROPENZ cf0ee276d798b6bc611711cd45d78fa2h€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_h‚Á
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.5©java"S117:MINORROPENZ cf0ee276d798b6bc611711cd45d78fa2h€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_i‚Á
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.5©java"S117:MINORROPENZ 93dd6e0454e0656a07ee91946292e46ah€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_j‚Á
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.6¸java"S1149:MAJORROPENZ e83c30538f76a923ed29d8a75717cac0h€ÙÊ”š/r
+CODE_SMELLzAXmilyhnAkZ6yHwg_g_k‚Ï
+hwebgoat-lessons/cross-site-scripting/src/main/java/org/owasp/webgoat/xss/CrossSiteScriptingLesson5a.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".@

@@ -1,0 +1,7 @@
+“java"S1192:CRITICALROPENZ 6f028a068081a0481bf3179e04c75058h€ÙÊ”š/r
+CODE_SMELLzAXmil0FGAkZ6yHwg_hO3‚§
+Uwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/EncodingAssignment.javaJDefine a constant instead of duplicating this literal "basicAuth" 3 times.1–java"S117:MINORROPENZ ef5de429d5e5943ee5d35ab5d6e42db9h€ÙÊ”š/r
+CODE_SMELLzAXmil0FGAkZ6yHwg_hO4‚®
+Uwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/EncodingAssignment.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.=–java"S117:MINORROPENZ ef5de429d5e5943ee5d35ab5d6e42db9h€ÙÊ”š/r
+CODE_SMELLzAXmil0FGAkZ6yHwg_hO5‚®
+Uwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/EncodingAssignment.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.=

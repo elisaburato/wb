@@ -1,0 +1,5 @@
+©java"S1192:CRITICALROPENZ 730f464c0e5ab02b466610f588174eeeh€ÙÊ”š/r
+CODE_SMELLzAXmily5BAkZ6yHwg_hB1‚½
+owebgoat-lessons/secure-passwords/src/main/java/org/owasp/webgoat/secure_password/SecurePasswordsAssignment.javaFDefine a constant instead of duplicating this literal "</br>" 4 times.3¿java"S1149:MAJORROPENZ 3a26e677cf1e77a7eafc563c6a198a95h€ÙÊ”š/r
+CODE_SMELLzAXmily5BAkZ6yHwg_hB2‚Ö
+owebgoat-lessons/secure-passwords/src/main/java/org/owasp/webgoat/secure_password/SecurePasswordsAssignment.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".-

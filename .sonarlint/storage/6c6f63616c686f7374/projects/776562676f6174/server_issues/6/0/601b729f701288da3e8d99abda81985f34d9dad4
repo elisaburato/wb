@@ -1,0 +1,7 @@
+÷java"S1226:MINORROPENZ 922120befea21fbae77a4046835995b3h€ÙÊ”š/rBUGzAXmil2mXAkZ6yHwg_hfS‚•
+Lwebgoat-container/src/main/java/org/owasp/webgoat/asciidoc/WebWolfMacro.javaAIntroduce a new variable instead of reusing the parameter "host".;÷java"S1226:MINORROPENZ f51a5583b49278ac0f22f8370d805980h€ÙÊ”š/rBUGzAXmil2mXAkZ6yHwg_hfT‚•
+Lwebgoat-container/src/main/java/org/owasp/webgoat/asciidoc/WebWolfMacro.javaAIntroduce a new variable instead of reusing the parameter "host".>÷java"S1226:MINORROPENZ df69bc77396097e8aec22ee21399d728h€ÙÊ”š/rBUGzAXmil2mXAkZ6yHwg_hfU‚•
+Lwebgoat-container/src/main/java/org/owasp/webgoat/asciidoc/WebWolfMacro.javaAIntroduce a new variable instead of reusing the parameter "host".@÷java"S1226:MINORROPENZ 92c126c368e103a32496a6bdada6a46ch€ÙÊ”š/rBUGzAXmil2mXAkZ6yHwg_hfV‚•
+Lwebgoat-container/src/main/java/org/owasp/webgoat/asciidoc/WebWolfMacro.javaAIntroduce a new variable instead of reusing the parameter "host".A…java"S4034:MINORROPENZ 1ac9826ec16c4a0e4ce650cac9b16b92h€ÙÊ”š/r
+CODE_SMELLzAXmil2mXAkZ6yHwg_hfW‚œ
+Lwebgoat-container/src/main/java/org/owasp/webgoat/asciidoc/WebWolfMacro.javaHReplace this "filter().findFirst().isPresent()" chain with "anyMatch()"./

@@ -1,0 +1,19 @@
+‹java"S1192:CRITICALROPENZ 6a0c95a56b5bac42a85b19171dfcf768h€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdt‚Ÿ
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 7 times.Vjava"S1192:CRITICALROPENZ 5d8b18bdfd1b038167b25f3fddbf0edah€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdu‚¤
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.javaPDefine a constant instead of duplicating this literal "lessonCompleted" 5 times.[java"S1192:CRITICALROPENZ 3e0083d94d6b73547915d2f222950afdh€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdv‚¤
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.javaPDefine a constant instead of duplicating this literal "tom@webgoat.org" 4 times.>íjava"S3740:MAJORROPENZ 9aa550bf6addf6df58717196236f6815h€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdw‚„
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java/Provide the parametrized type for this generic.ºôjava"S1854:MAJORROPENZ b1c1703c809cf7466dc3a18b13e92edeh€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdx‚‹
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java7Remove this useless assignment to local variable "jwt".Hİjava"S2129:MAJORROPENZ 60d666e0b6d9acc2cfa2b18573b959f1h€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdy‚u
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java Remove this "String" constructorİjava"S2129:MAJORROPENZ 5da1fa49b5777513851f7cd1ea07b912h€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hdz‚u
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java Remove this "String" constructorİjava"S2129:MAJORROPENZ 66c5275ab1860808d368b4ea04395dcbh€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hd0‚u
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java Remove this "String" constructor«äjava"S1481:MINORROPENZ b1c1703c809cf7466dc3a18b13e92edeh€ÙÊ”š/r
+CODE_SMELLzAXmil2TnAkZ6yHwg_hd1‚|
+Lwebgoat-integration-tests/src/test/java/org/owasp/webgoat/JWTLessonTest.java(Remove this unused "jwt" local variable.H

@@ -1,0 +1,5 @@
+Žjava"S1192:CRITICALROPENZ 7ce7dc9ce984d6c797c7c7b8f6773deeh€ÙÊ”š/r
+CODE_SMELLzAXmilzsnAkZ6yHwg_hMB‚¢
+Qwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpoint.javaIDefine a constant instead of duplicating this literal "username" 3 times.9Þjava"S2386:MINORROPENZ b84896b5a2bbd3f31e32739d5bdcd9a7h€ÙÊ”š/r
+CODE_SMELLzAXmilzsnAkZ6yHwg_hMC‚v
+Qwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpoint.javaMake this member "protected".6

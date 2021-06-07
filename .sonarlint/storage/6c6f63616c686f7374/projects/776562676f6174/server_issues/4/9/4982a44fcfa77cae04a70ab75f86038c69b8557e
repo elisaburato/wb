@@ -1,0 +1,13 @@
+ºjava"S1192:CRITICALROPENZ 33c076cbd2e7a3a8fb2aaf151a0d219eh€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEn‚Î
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaPDefine a constant instead of duplicating this literal "lessonCompleted" 3 times.3µjava"S1192:CRITICALROPENZ 44a464b65c6dd8a705917860f1ba8b13h€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEo‚É
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaKDefine a constant instead of duplicating this literal "$.feedback" 3 times.4¸java"S1192:CRITICALROPENZ a944ea750e9c700356b0a3f776658c36h€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEp‚Ì
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaNDefine a constant instead of duplicating this literal "action_string" 3 times.0Ájava"S1192:CRITICALROPENZ 27d8ccb5b6e4a05d2a60e19fd1d851ddh€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEq‚Õ
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaWDefine a constant instead of duplicating this literal "/SqlInjection/attack10" 3 times./¬java"S112:MAJORROPENZ 1552f09cffeb9dcecbfa757854577a71h€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEr‚Ä
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaFDefine and throw a dedicated exception instead of using a generic one.-¬java"S112:MAJORROPENZ 3c1a5c55f373130d607a31f7769d6381h€ÙÊ”š/r
+CODE_SMELLzAXmilzC9AkZ6yHwg_hEs‚Ä
+vwebgoat-lessons/sql-injection/src/test/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson10Test.javaFDefine and throw a dedicated exception instead of using a generic one.B

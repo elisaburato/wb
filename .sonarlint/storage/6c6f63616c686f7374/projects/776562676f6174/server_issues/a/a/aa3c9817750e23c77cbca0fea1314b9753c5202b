@@ -1,0 +1,15 @@
+‡java"S1192:CRITICALROPENZ 3e84bbc3b99819dfa359d3d305e1ea92h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOp‚›
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.javaFDefine a constant instead of duplicating this literal "UTF-8" 4 times.+øjava"S1118:MAJORROPENZ 0c5e79e80deb3c2f2927f62b4be46553h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOq‚
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java:Add a private constructor to hide the implicit public one.ùjava"S125:MAJORROPENZ 4f9c7b9f7970d3f72d7e3afb942a7a28h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOr‚‘
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java<This block of commented-out lines of code should be removed.%øjava"S4719:MINORROPENZ 3e84bbc3b99819dfa359d3d305e1ea92h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOs‚
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java:Replace Charset.forName() call with StandardCharsets.UTF_8+÷java"S4719:MINORROPENZ 2baa1e5aaffc1d77eb750355a8712927h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOt‚
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java9Replace charset name argument with StandardCharsets.UTF_89øjava"S4719:MINORROPENZ 43f2406ded4b58afe66988e9120d5516h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOu‚
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java:Replace Charset.forName() call with StandardCharsets.UTF_8<÷java"S4719:MINORROPENZ 2baa1e5aaffc1d77eb750355a8712927h€ÙÊ”š/r
+CODE_SMELLzAXmil0BJAkZ6yHwg_hOv‚
+Mwebgoat-lessons/crypto/src/main/java/org/owasp/webgoat/crypto/CryptoUtil.java9Replace charset name argument with StandardCharsets.UTF_8W

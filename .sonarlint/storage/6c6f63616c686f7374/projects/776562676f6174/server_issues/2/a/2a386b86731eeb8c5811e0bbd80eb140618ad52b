@@ -1,0 +1,25 @@
+ójava"S1192:CRITICALROPENZ 6d3e5ffa3c511bdafba4478baf66bdafhÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hWzÇ´
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 4 times.=¢java"S1192:CRITICALROPENZ 6d3e5ffa3c511bdafba4478baf66bdafhÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW0Ç∂
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaVDefine a constant instead of duplicating this literal "assignment.not.solved" 3 times.=ójava"S1192:CRITICALROPENZ 322729d885703f0ca8ffac8ada25412dhÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW1Ç´
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaKDefine a constant instead of duplicating this literal "/xxe/blind" 5 times.9újava"S1192:CRITICALROPENZ 3c04d8a7c94f68355bda9cd928ae68b1hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW2Ç∞
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaPDefine a constant instead of duplicating this literal "/XXE/secret.txt" 3 times.Mójava"S1192:CRITICALROPENZ d79ca47f3812d2529d2767464069eb52hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW3Ç´
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaKDefine a constant instead of duplicating this literal "/landing.*" 3 times.aéjava"S112:MAJORROPENZ 15e1072d16bf2231563c8ea90b9f6f51hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW4Ç¶
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.7éjava"S112:MAJORROPENZ a89fe92bf601cd05161f10302e26bdadhÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW5Ç¶
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.Béjava"S112:MAJORROPENZ 108ada53f8c3e8ada7cf18b431fece32hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW6Ç¶
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.Lèjava"S112:MAJORROPENZ 3cae7ee9caf224ad7269336f8925e2ffhÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW7Çß
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.Öäjava"S1075:MINORROPENZ 3c04d8a7c94f68355bda9cd928ae68b1hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW8Ç°
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaARefactor your code to get this URI from a customizable parameter.Mäjava"S1075:MINORROPENZ 3c04d8a7c94f68355bda9cd928ae68b1hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW9Ç°
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaARefactor your code to get this URI from a customizable parameter.Wäjava"S1075:MINORROPENZ 3c04d8a7c94f68355bda9cd928ae68b1hÄŸ îö/r
+CODE_SMELLzAXmil1hLAkZ6yHwg_hW-Ç°
+Xwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/BlindSendFileAssignmentTest.javaARefactor your code to get this URI from a customizable parameter.o

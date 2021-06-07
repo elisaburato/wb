@@ -1,0 +1,13 @@
+ªjava"S1192:CRITICALROPENZ 4eec6696541132267f9de1a9b0ba8603h€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hN9‚¾
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaIDefine a constant instead of duplicating this literal "Location" 3 times..£java"S112:MAJORROPENZ ce28ba5d985b854f949f07538400a8f5h€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hN-‚»
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaFDefine and throw a dedicated exception instead of using a generic one.*£java"S112:MAJORROPENZ e55ea420e1d73e002bf244175a3b5e3fh€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hN_‚»
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaFDefine and throw a dedicated exception instead of using a generic one.H£java"S112:MAJORROPENZ 25700d0ff2a33e594edabe2183117962h€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hOA‚»
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaFDefine and throw a dedicated exception instead of using a generic one.PŸjava"S1075:MINORROPENZ ffeaf2d9a7322b27d50181be4be98277h€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hOB‚¶
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaARefactor your code to get this URI from a customizable parameter.3Ÿjava"S1075:MINORROPENZ 46377f566ce3f67c1c9da4858fc9839ch€ÙÊ”š/r
+CODE_SMELLzAXmilz8nAkZ6yHwg_hOC‚¶
+mwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadRetrievalTest.javaARefactor your code to get this URI from a customizable parameter.:

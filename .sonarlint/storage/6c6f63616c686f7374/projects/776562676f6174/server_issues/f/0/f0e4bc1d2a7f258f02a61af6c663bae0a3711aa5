@@ -1,0 +1,14 @@
+ñjava"S1192:CRITICALROPENZ 7d397c634c40020b0f2f6f7b9a60ecf5h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkf‚…
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.javaFDefine a constant instead of duplicating this literal "files" 3 times.Pùjava"S1192:CRITICALROPENZ eeedca64e9f9adf5ce4eda36d1e43512h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkg‚
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.javaNDefine a constant instead of duplicating this literal "uploadSuccess" 3 times.Nöjava"S4042:MAJORROPENZ a6f47f48d1c61eb5d61dd897f6a485a7h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkh‚
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.javaNUse "java.nio.file.Files#delete" here for better messages on error conditions.iÚjava"S899:MINORROPENZ a6f47f48d1c61eb5d61dd897f6a485a7h€ÙÊ”š/rBUGzAXmil2-JAkZ6yHwg_hki‚z
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.java;Do something with the "boolean" value returned by "delete".iÏjava"S1068:MAJORROPENZ ceb3b90ca0cef1868923530915cc87b9h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkj‚g
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.java(Remove this unused "name" private field.XÏjava"S1068:MAJORROPENZ dcf5092fe59cea5472ede4430e70d504h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkk‚g
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.java(Remove this unused "size" private field.YÏjava"S1068:MAJORROPENZ ff160d793b0d5665369dc7f7a42a8d44h€ÙÊ”š/r
+CODE_SMELLzAXmil2-JAkZ6yHwg_hkl‚g
+7webwolf/src/main/java/org/owasp/webwolf/FileServer.java(Remove this unused "link" private field.Z

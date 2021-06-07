@@ -1,0 +1,7 @@
+Åcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmil29aAkZ6yHwg_hkY‚m
+=webwolf/src/main/java/org/owasp/webwolf/user/WebGoatUser.java,2 duplicated blocks of code must be removed.Öjava"S1452:CRITICALROPENZ 327c071fc2366a49c8caf9daeff46266h€ÙÊ”š/r
+CODE_SMELLzAXmil29bAkZ6yHwg_hkZ‚k
+=webwolf/src/main/java/org/owasp/webwolf/user/WebGoatUser.java&Remove usage of generic wildcard type.DÕjava"S1068:MAJORROPENZ 93d2bc8d349fa017f54faafe46a167eah€ÙÊ”š/r
+CODE_SMELLzAXmil29bAkZ6yHwg_hka‚m
+=webwolf/src/main/java/org/owasp/webwolf/user/WebGoatUser.java(Remove this unused "role" private field.3

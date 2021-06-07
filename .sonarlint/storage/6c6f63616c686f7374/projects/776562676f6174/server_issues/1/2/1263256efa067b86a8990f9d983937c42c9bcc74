@@ -1,0 +1,9 @@
+Éjava"S1068:MAJORROPENZ fb9d95f774091fa8835d9f3aff713099hÄŸ îö/r
+CODE_SMELLzAXmilycjAkZ6yHwg_g-WÇö
+lwebgoat-lessons/vulnerable-components/src/main/java/org/owasp/webgoat/vulnerable_components/ContactImpl.java&Remove this unused "id" private field.äjava"S1068:MAJORROPENZ acde42bae87a86ff8a2d0b2081cf481ehÄŸ îö/r
+CODE_SMELLzAXmilycjAkZ6yHwg_g-XÇ°
+lwebgoat-lessons/vulnerable-components/src/main/java/org/owasp/webgoat/vulnerable_components/ContactImpl.java-Remove this unused "firstName" private field.âjava"S1068:MAJORROPENZ f6285bf0b3dbacee43d2191fd5ecc99fhÄŸ îö/r
+CODE_SMELLzAXmilycjAkZ6yHwg_g-YÇ†
+lwebgoat-lessons/vulnerable-components/src/main/java/org/owasp/webgoat/vulnerable_components/ContactImpl.java,Remove this unused "lastName" private field. Üjava"S1068:MAJORROPENZ 54f4c15b0443dc246e397714de706d53hÄŸ îö/r
+CODE_SMELLzAXmilycjAkZ6yHwg_g-ZÇù
+lwebgoat-lessons/vulnerable-components/src/main/java/org/owasp/webgoat/vulnerable_components/ContactImpl.java)Remove this unused "email" private field.!

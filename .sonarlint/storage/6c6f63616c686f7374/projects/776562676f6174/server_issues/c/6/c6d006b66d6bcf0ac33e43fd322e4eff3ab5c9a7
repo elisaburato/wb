@@ -1,0 +1,9 @@
+…java"S1128:MINORROPENZ ec4446eb04b3e55efd6bae70e2e4c407h€ÙÊ”š/r
+CODE_SMELLzAXmil3FqAkZ6yHwg_hmE‚œ
+Hwebgoat-server/src/main/java/org/owasp/webgoat/HSQLDBDatabaseConfig.javaLRemove this unused import 'org.springframework.boot.jdbc.DataSourceBuilder'.âjava"S1128:MINORROPENZ 43e38890a62dff55349d9e47672e3775h€ÙÊ”š/r
+CODE_SMELLzAXmil3FqAkZ6yHwg_hmF‚z
+Hwebgoat-server/src/main/java/org/owasp/webgoat/HSQLDBDatabaseConfig.java*Remove this unused import 'java.util.Map'.ÿjava"S1128:MINORROPENZ 26d0ed2aae5821e015c80f4f898c69b9h€ÙÊ”š/r
+CODE_SMELLzAXmil3FqAkZ6yHwg_hmG‚–
+Hwebgoat-server/src/main/java/org/owasp/webgoat/HSQLDBDatabaseConfig.javaFRemove this unused import 'org.springframework.core.annotation.Order'.äjava"S1128:MINORROPENZ dfbadc288717b2d443e57f0121c69b5dh€ÙÊ”š/r
+CODE_SMELLzAXmil3FqAkZ6yHwg_hmH‚|
+Hwebgoat-server/src/main/java/org/owasp/webgoat/HSQLDBDatabaseConfig.java,Remove this unused import 'java.sql.Driver'.

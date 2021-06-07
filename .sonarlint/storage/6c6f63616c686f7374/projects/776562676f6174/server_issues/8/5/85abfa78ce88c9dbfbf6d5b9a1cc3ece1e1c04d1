@@ -1,0 +1,11 @@
+¤java"S1192:CRITICALROPENZ 91783e88b7a7295d8c25116454418788h€ÙÊ”š/r
+CODE_SMELLzAXmil191AkZ6yHwg_haV‚¸
+iwebgoat-lessons/chrome-dev-tools/src/test/java/org/owasp/webgoat/chrome_dev_tools/ChromeDevToolsTest.javaGDefine a constant instead of duplicating this literal "123456" 3 times.$Ÿjava"S112:MAJORROPENZ 4f888449b6b94a090d39560c62b92201h€ÙÊ”š/r
+CODE_SMELLzAXmil191AkZ6yHwg_haW‚·
+iwebgoat-lessons/chrome-dev-tools/src/test/java/org/owasp/webgoat/chrome_dev_tools/ChromeDevToolsTest.javaFDefine and throw a dedicated exception instead of using a generic one."Ÿjava"S112:MAJORROPENZ 839c87bca1efb5b1375ba0632d9d5220h€ÙÊ”š/r
+CODE_SMELLzAXmil191AkZ6yHwg_haX‚·
+iwebgoat-lessons/chrome-dev-tools/src/test/java/org/owasp/webgoat/chrome_dev_tools/ChromeDevToolsTest.javaFDefine and throw a dedicated exception instead of using a generic one.+§java"S100:MINORROPENZ 4f888449b6b94a090d39560c62b92201h€ÙÊ”š/r
+CODE_SMELLzAXmil191AkZ6yHwg_haY‚¿
+iwebgoat-lessons/chrome-dev-tools/src/test/java/org/owasp/webgoat/chrome_dev_tools/ChromeDevToolsTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'."§java"S100:MINORROPENZ 839c87bca1efb5b1375ba0632d9d5220h€ÙÊ”š/r
+CODE_SMELLzAXmil191AkZ6yHwg_haZ‚¿
+iwebgoat-lessons/chrome-dev-tools/src/test/java/org/owasp/webgoat/chrome_dev_tools/ChromeDevToolsTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.+

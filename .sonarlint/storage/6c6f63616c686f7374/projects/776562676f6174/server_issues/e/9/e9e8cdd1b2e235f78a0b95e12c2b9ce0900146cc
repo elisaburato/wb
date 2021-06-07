@@ -1,0 +1,15 @@
+“java"S1192:CRITICALROPENZ 1a0cf34729e0bd63c6bc611d32f1f3a9h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hlk‚§
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaUDefine a constant instead of duplicating this literal "test1234@webgoat.org" 3 times.RŽjava"S1192:CRITICALROPENZ efbb2df17944011c65d33598dc1b9763h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hll‚¢
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaPDefine a constant instead of duplicating this literal "Click this mail" 5 times.T‘java"S1192:CRITICALROPENZ 235f083cfed03e5ed65880ea6c611599h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hlm‚¥
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaSDefine a constant instead of duplicating this literal "hacker@webgoat.org" 3 times.S’java"S1192:CRITICALROPENZ 6c0389665a412c2294c8a9b39bc06944h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hln‚¦
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaTDefine a constant instead of duplicating this literal "This is a test mail" 3 times.Q€java"S112:MAJORROPENZ 1d5615d16c84732a44a661d8857efb85h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hlo‚˜
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaFDefine and throw a dedicated exception instead of using a generic one.O€java"S112:MAJORROPENZ 49624c781d7790392cf802cc9062390fh€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hlp‚˜
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaFDefine and throw a dedicated exception instead of using a generic one.]€java"S112:MAJORROPENZ b31c0f3716f8889071320c4fd5604d35h€ÙÊ”š/r
+CODE_SMELLzAXmil3C2AkZ6yHwg_hlq‚˜
+Jwebwolf/src/test/java/org/owasp/webwolf/mailbox/MailboxControllerTest.javaFDefine and throw a dedicated exception instead of using a generic one.p

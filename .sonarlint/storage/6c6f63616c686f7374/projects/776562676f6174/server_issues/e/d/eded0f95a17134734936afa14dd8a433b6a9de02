@@ -1,0 +1,11 @@
+ˆjava"S1192:CRITICALROPENZ 42571a55c70221dc73aff6e7d0149dc4h€ÙÊ”š/r
+CODE_SMELLzAXmil13pAkZ6yHwg_hZi‚œ
+Hwebgoat-lessons/ssrf/src/test/java/org/owasp/webgoat/ssrf/SSRFTest1.javaLDefine a constant instead of duplicating this literal "/SSRF/task1" 3 times.#Žjava"S1192:CRITICALROPENZ 7207af1c59e5614da09a26d2a82f12a4h€ÙÊ”š/r
+CODE_SMELLzAXmil13pAkZ6yHwg_hZj‚¢
+Hwebgoat-lessons/ssrf/src/test/java/org/owasp/webgoat/ssrf/SSRFTest1.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 3 times.%þjava"S112:MAJORROPENZ 0955b07b09f74aa7a06a42e443611ac9h€ÙÊ”š/r
+CODE_SMELLzAXmil13pAkZ6yHwg_hZk‚–
+Hwebgoat-lessons/ssrf/src/test/java/org/owasp/webgoat/ssrf/SSRFTest1.javaFDefine and throw a dedicated exception instead of using a generic one."þjava"S112:MAJORROPENZ 0a02a3e53e977b2904c8c8322312886dh€ÙÊ”š/r
+CODE_SMELLzAXmil13pAkZ6yHwg_hZl‚–
+Hwebgoat-lessons/ssrf/src/test/java/org/owasp/webgoat/ssrf/SSRFTest1.javaFDefine and throw a dedicated exception instead of using a generic one.)þjava"S112:MAJORROPENZ 8449586026b0b47744b3d3a6479bb7d1h€ÙÊ”š/r
+CODE_SMELLzAXmil13pAkZ6yHwg_hZm‚–
+Hwebgoat-lessons/ssrf/src/test/java/org/owasp/webgoat/ssrf/SSRFTest1.javaFDefine and throw a dedicated exception instead of using a generic one.0

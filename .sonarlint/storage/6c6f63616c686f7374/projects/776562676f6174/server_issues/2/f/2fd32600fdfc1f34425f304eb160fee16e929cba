@@ -1,0 +1,45 @@
+öjava"S1192:CRITICALROPENZ eb2e5c5b7e0f697045282a5b1e2d5d25hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLmÇÆ
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaSDefine a constant instead of duplicating this literal "/JWT/refresh/login" 7 times.Bêjava"S1192:CRITICALROPENZ 05d26d20724aea704d9809db4e3fb156hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLnÇ§
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaIDefine a constant instead of duplicating this literal "password" 6 times.Aîjava"S1192:CRITICALROPENZ 629eb7cf6bc8dbc522a6e66865586ff2hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLoÇ®
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaMDefine a constant instead of duplicating this literal "access_token" 5 times.Hïjava"S1192:CRITICALROPENZ 5e3616c49baf25024908259a69965178hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLpÇ©
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaNDefine a constant instead of duplicating this literal "refresh_token" 5 times.Içjava"S1192:CRITICALROPENZ 05d26d20724aea704d9809db4e3fb156hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLqÇ°
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine a constant instead of duplicating this literal "Jerry" 5 times.Aùjava"S1192:CRITICALROPENZ 4cbbdc4f44ab15e4d7ae19361d952fb8hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLrÇ±
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaVDefine a constant instead of duplicating this literal "/JWT/refresh/newToken" 4 times.Oïjava"S1192:CRITICALROPENZ 8e6303a0db3f2076ab38a13ae99654f4hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLsÇ©
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaNDefine a constant instead of duplicating this literal "Authorization" 7 times.Qùjava"S1192:CRITICALROPENZ 03a0cfd4eb727a9d3a9fe8f215a322f0hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLtÇ±
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaVDefine a constant instead of duplicating this literal "/JWT/refresh/checkout" 5 times.Yèjava"S1192:CRITICALROPENZ 8e6303a0db3f2076ab38a13ae99654f4hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLuÇ£
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaHDefine a constant instead of duplicating this literal "Bearer " 7 times.Qâjava"S112:MAJORROPENZ 2472e023b3798f47263fc7979d48db6dhÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLvÇ°
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.=âjava"S112:MAJORROPENZ adf865ca20d8ed52cf66775b7cc04095hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLwÇ°
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.`âjava"S112:MAJORROPENZ 8f66d7730d80b2a63806c9a10128e2eehÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLxÇ°
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.iâjava"S112:MAJORROPENZ cdadb1b2ef5d43035a6a38890a3493d7hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLyÇ°
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.räjava"S112:MAJORROPENZ e1959c471a80de3231e9cbca0256708fhÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hLzÇ¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Öäjava"S112:MAJORROPENZ 855ee910a2e76fa711d4fdbba99ce931hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL0Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.êäjava"S112:MAJORROPENZ 0425a5e9bf57ca57996e73617a27c99dhÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL1Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.õäjava"S112:MAJORROPENZ 3ec59d2f1142899970e7206825d61e00hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL2Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.≤äjava"S112:MAJORROPENZ 9d1074d53ae4ff10e823e3c092ebb87bhÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL3Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.»äjava"S112:MAJORROPENZ 1b816985440b7a4c1d91e06418a07a9bhÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL4Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Œäjava"S112:MAJORROPENZ a9dcb6b18b0ed3127ac10077f325a3c3hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL5Ç¢
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.‘Éjava"S1854:MAJORROPENZ 629eb7cf6bc8dbc522a6e66865586ff2hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL6Çö
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java?Remove this useless assignment to local variable "accessToken".HÙjava"S1481:MINORROPENZ 629eb7cf6bc8dbc522a6e66865586ff2hÄŸ îö/r
+CODE_SMELLzAXmilzndAkZ6yHwg_hL7Çã
+Swebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java0Remove this unused "accessToken" local variable.H

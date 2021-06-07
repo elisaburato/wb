@@ -1,0 +1,15 @@
+ˆjava"S1192:CRITICALROPENZ 2d33d47bff8ca163511113bc1df7f7b4h€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hc_‚œ
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 4 times.7Šjava"S117:MINORROPENZ fec9857a684cbc27afe307d0d555a60eh€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdA‚¢
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.;Šjava"S117:MINORROPENZ 9038886b6823bc6fea4e579291bd838ch€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdB‚¢
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.<Šjava"S117:MINORROPENZ cb4a7232e760d2da533b62050c423d2eh€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdC‚¢
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.EŠjava"S117:MINORROPENZ 39883d36c1549176ff35632bdd7ff388h€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdD‚¢
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.TŠjava"S117:MINORROPENZ b22d153bef8c9ca7c2a04a9269d3ab08h€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdE‚¢
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.Uôjava"S4719:MINORROPENZ 63eb4baec6015bc473e284a8e94ded51h€ÙÊ”š/r
+CODE_SMELLzAXmil2O2AkZ6yHwg_hdH‚‹
+Iwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CryptoTest.java:Replace Charset.forName() call with StandardCharsets.UTF_8}

@@ -1,0 +1,9 @@
+…java"S1192:CRITICALROPENZ ff3920638f5ef45f43cadcd93b703f38h€ÙÊ”š/r
+CODE_SMELLzAXmil2pFAkZ6yHwg_hf6‚™
+Gwebgoat-container/src/main/java/org/owasp/webgoat/MvcConfiguration.javaJUse already-defined constant 'UTF8' instead of duplicating its value here.O”java"S1488:MINORROPENZ 84a8ac861d4af67abf03f0226fc5aa71h€ÙÊ”š/r
+CODE_SMELLzAXmil2pFAkZ6yHwg_hf7‚«
+Gwebgoat-container/src/main/java/org/owasp/webgoat/MvcConfiguration.java[Immediately return this expression instead of assigning it to the temporary variable "slr".Ÿñjava"S1128:MINORROPENZ 9cf63a970938907c42807c52e02aacd9h€ÙÊ”š/r
+CODE_SMELLzAXmil2pFAkZ6yHwg_hf8‚ˆ
+Gwebgoat-container/src/main/java/org/owasp/webgoat/MvcConfiguration.java9Remove this unused import 'org.thymeleaf.TemplateEngine'.0ójava"S125:MAJORROPENZ 6775adaf71d21e59e89d9a7fd9fc0922h€ÙÊ”š/r
+CODE_SMELLzAXmil2pFAkZ6yHwg_hf9‚‹
+Gwebgoat-container/src/main/java/org/owasp/webgoat/MvcConfiguration.java<This block of commented-out lines of code should be removed.H

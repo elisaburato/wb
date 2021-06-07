@@ -1,0 +1,7 @@
+îjava"S1854:MAJORROPENZ 7040da536dcef4923bd9237236989d0fh€ÙÊ”š/r
+CODE_SMELLzAXmilzoPAkZ6yHwg_hL8‚…
+Fwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java7Remove this useless assignment to local variable "jwt".6îjava"S1854:MAJORROPENZ 3d8d6bec140ea6763a2dc8cddb153454h€ÙÊ”š/r
+CODE_SMELLzAXmilzoPAkZ6yHwg_hL9‚…
+Fwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java7Remove this useless assignment to local variable "jwt".5Þjava"S1481:MINORROPENZ 3d8d6bec140ea6763a2dc8cddb153454h€ÙÊ”š/r
+CODE_SMELLzAXmilzoPAkZ6yHwg_hL-‚v
+Fwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java(Remove this unused "jwt" local variable.5

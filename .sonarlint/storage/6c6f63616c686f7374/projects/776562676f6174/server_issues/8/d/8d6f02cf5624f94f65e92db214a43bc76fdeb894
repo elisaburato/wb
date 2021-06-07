@@ -1,0 +1,7 @@
+Ûjava"S2386:MINORROPENZ 550a1cdbc95b01329a58c8e090ddfbf2h€ÙÊ”š/r
+CODE_SMELLzAXmil09cAkZ6yHwg_hVF‚s
+Nwebgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/Flag.javaMake this member "protected".5íjava"S3985:MAJORROPENZ 428c468bbc0dffd10044aa9621dcb45fh€ÙÊ”š/r
+CODE_SMELLzAXmil09cAkZ6yHwg_hVG‚„
+Nwebgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/Flag.java.Remove this unused private "FlagPosted" class.<øjava"S2130:MINORROPENZ eb3e2c74c4c9e0eb814199d0a667c3e0h€ÙÊ”š/r
+CODE_SMELLzAXmil09cAkZ6yHwg_hVH‚
+Nwebgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/Flag.java9Use "Integer.parseInt" for this string-to-int conversion.K

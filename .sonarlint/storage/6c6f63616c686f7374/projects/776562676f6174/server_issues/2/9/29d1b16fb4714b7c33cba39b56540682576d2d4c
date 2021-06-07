@@ -1,0 +1,9 @@
+újava"S1452:CRITICALROPENZ b7f3fc81a7685b75ebf8ee4c2f011adah€ÙÊ”š/r
+CODE_SMELLzAXmil1B5AkZ6yHwg_hVP‚
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge8/Assignment8.java&Remove usage of generic wildcard type.'újava"S1452:CRITICALROPENZ b3e6a349ab9648e4c27281596f89dff5h€ÙÊ”š/r
+CODE_SMELLzAXmil1B5AkZ6yHwg_hVQ‚
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge8/Assignment8.java&Remove usage of generic wildcard type.4±java"S1612:MINORROPENZ ef07c2d34545c6c323cddf041f328789h€ÙÊ”š/r
+CODE_SMELLzAXmil1B5AkZ6yHwg_hVR‚È
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge8/Assignment8.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.):ùjava"S1481:MINORROPENZ b2494c78eb63830d038e0543006af14eh€ÙÊ”š/r
+CODE_SMELLzAXmil1B5AkZ6yHwg_hVS‚
+`webgoat-lessons/challenge/src/main/java/org/owasp/webgoat/challenges/challenge8/Assignment8.java(Remove this unused "msg" local variable.)

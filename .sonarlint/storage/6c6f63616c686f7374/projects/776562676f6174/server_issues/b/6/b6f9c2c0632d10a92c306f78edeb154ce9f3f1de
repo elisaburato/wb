@@ -1,0 +1,11 @@
+ùjava"S1128:MINORROPENZ 784b30834616348fbc63037557975d08h€ÙÊ”š/r
+CODE_SMELLzAXmil2_DAkZ6yHwg_hkv‚
+=webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.javaKRemove this unused import 'org.springframework.context.annotation.Primary'.ûjava"S1128:MINORROPENZ 5dbf021397cc854efa976760e846fc28h€ÙÊ”š/r
+CODE_SMELLzAXmil2_DAkZ6yHwg_hkw‚’
+=webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.javaMRemove this unused import 'org.springframework.context.annotation.DependsOn'.Şjava"S1128:MINORROPENZ df2f30a31384444a67cab5c2a51405fbh€ÙÊ”š/r
+CODE_SMELLzAXmil2_DAkZ6yHwg_hkx‚v
+=webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.java1Remove this unused import 'javax.sql.DataSource'.$†java"S1128:MINORROPENZ 8e48382506b4916bbcc605822239c9ach€ÙÊ”š/r
+CODE_SMELLzAXmil2_DAkZ6yHwg_hky‚
+=webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.javaXRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.öjava"S1128:MINORROPENZ 69fdc8295e5d811bf27f5c00eaf3502ah€ÙÊ”š/r
+CODE_SMELLzAXmil2_DAkZ6yHwg_hkz‚
+=webwolf/src/main/java/org/owasp/webwolf/MvcConfiguration.javaHRemove this unused import 'org.springframework.context.annotation.Bean'.

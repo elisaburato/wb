@@ -1,0 +1,40 @@
+
+˜
+AXmil2pFAkZ6yHwg_hf6
+java:S1192O"JUse already-defined constant 'UTF8' instead of duplicating its value here.(İö†úÿÿÿÿ8€ÙÊ”š/RCRITICALZ
+CODE_SMELL
+
+AXmil2pFAkZ6yHwg_hf8
+java:S11280"9Remove this unused import 'org.thymeleaf.TemplateEngine'.(Ç×Óô8€ÙÊ”š/RMINORZ
+CODE_SMELL
+
+AXmil2pFAkZ6yHwg_hf9	java:S125H"<This block of commented-out lines of code should be removed.(·‚„8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+¢
+AXmil2pFAkZ6yHwg_hf7
+java:S1488Ÿ"[Immediately return this expression instead of assigning it to the temporary variable "slr".(š”œ´8€ÙÊ”š/RMINORZ
+CODE_SMELL
+^
+java:S6212M"/Declare this local variable with "var" instead.(ïàøù8ğĞœœš/RINFOZ
+CODE_SMELL
+c
+java:S6212U"/Declare this local variable with "var" instead.(«‹Áÿÿÿÿÿ8ğĞœœš/RINFOZ
+CODE_SMELL
+c
+java:S6212b"/Declare this local variable with "var" instead.(úà²¡üÿÿÿÿ8ğĞœœš/RINFOZ
+CODE_SMELL
+^
+java:S6212k"/Declare this local variable with "var" instead.(òæÈ8ğĞœœš/RINFOZ
+CODE_SMELL
+^
+java:S6212v"/Declare this local variable with "var" instead.(—ó§8ğĞœœš/RINFOZ
+CODE_SMELL
+_
+java:S6212ˆ"/Declare this local variable with "var" instead.(‹±Áş8ğĞœœš/RINFOZ
+CODE_SMELL
+_
+java:S6212–"/Declare this local variable with "var" instead.(âı„Ş8ğĞœœš/RINFOZ
+CODE_SMELL
+_
+java:S6212Ÿ"/Declare this local variable with "var" instead.(š”œ´8ğĞœœš/RINFOZ
+CODE_SMELL

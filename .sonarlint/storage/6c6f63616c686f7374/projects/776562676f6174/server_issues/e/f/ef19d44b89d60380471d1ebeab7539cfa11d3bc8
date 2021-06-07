@@ -1,0 +1,23 @@
+´java"S1192:CRITICALROPENZ 7a76c2b6fbc151fc73a34a6f58e2a865h€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbc‚È
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaLDefine a constant instead of duplicating this literal "hiddenMenu1" 3 times.4´java"S1192:CRITICALROPENZ 9a55a6812cf4ce5db5d30fd61d4e7e33h€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbd‚È
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaLDefine a constant instead of duplicating this literal "hiddenMenu2" 3 times.5³java"S1192:CRITICALROPENZ 9fa78ad2dea6b2ed33c2a6764dd31eb1h€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbe‚Ç
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 3 times.6Äjava"S1192:CRITICALROPENZ ed0bcd614a6816488bedeb44e20aa3fdh€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbf‚Ø
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.java\Define a constant instead of duplicating this literal "/access-control/hidden-menu" 3 times.3ºjava"S1192:CRITICALROPENZ 4dae69a7990c163ff42c2213c622a0bfh€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbg‚Î
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 3 times.7ªjava"S112:MAJORROPENZ e4c71cdd4f768f1f505f8934b52cc87ah€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbh‚Â
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaFDefine and throw a dedicated exception instead of using a generic one.2ªjava"S112:MAJORROPENZ b518b158b8b72558bfa354c0dc6ef87dh€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbi‚Â
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaFDefine and throw a dedicated exception instead of using a generic one.;ªjava"S112:MAJORROPENZ d8f5b44956dd4c2acbd185fb25e948a6h€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbj‚Â
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaFDefine and throw a dedicated exception instead of using a generic one.D²java"S100:MINORROPENZ e4c71cdd4f768f1f505f8934b52cc87ah€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbk‚Ê
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.2²java"S100:MINORROPENZ b518b158b8b72558bfa354c0dc6ef87dh€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbl‚Ê
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.;²java"S100:MINORROPENZ d8f5b44956dd4c2acbd185fb25e948a6h€ÙÊ”š/r
+CODE_SMELLzAXmil2FVAkZ6yHwg_hbm‚Ê
+twebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenusTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.D

@@ -1,0 +1,19 @@
+“java"S1192:CRITICALROPENZ 75081179a423c9f7b70669407304defeh€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hde‚§
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.javaIDefine a constant instead of duplicating this literal "password" 3 times.'java"S1192:CRITICALROPENZ 75081179a423c9f7b70669407304defeh€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdf‚¤
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.javaFDefine a constant instead of duplicating this literal "email" 3 times.'—java"S1192:CRITICALROPENZ e34a943ea6d9ccd71aa066ab36f0d96fh€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdg‚«
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.javaMDefine a constant instead of duplicating this literal "@webgoat.org" 3 times.&£java"S1488:MINORROPENZ 7d117c3a9e24faa241bd1e9a443c7c01h€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdh‚º
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java\Immediately return this expression instead of assigning it to the temporary variable "link".k§java"S1612:MINORROPENZ 1a5695370914801a966230d5c875a589h€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdi‚¾
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)§java"S1612:MINORROPENZ 24c938f015034a3a9c14482b6cb2c2a9h€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdj‚¾
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)§java"S1612:MINORROPENZ ba060329fd21a0b89924e7241743bee0h€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdk‚¾
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)§java"S1612:MINORROPENZ 22fe572db40c1ae45def9c68dec8ce18h€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdl‚¾
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.) §java"S1612:MINORROPENZ cb0ec1d93c4142394f6a2c408c8f443ah€ÙÊ”š/r
+CODE_SMELLzAXmil2PvAkZ6yHwg_hdm‚¾
+Vwebgoat-integration-tests/src/test/java/org/owasp/webgoat/PasswordResetLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)!

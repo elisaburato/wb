@@ -1,0 +1,17 @@
+ùjava"S1068:MAJORROPENZ db088c3618bf8d9889c63144f646bd67h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfp‚
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java8Remove this unused "totalNumberOfLessons" private field.\ıjava"S1068:MAJORROPENZ e735ae6fe75a18621e0601507f68f924h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfq‚”
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java<Remove this unused "totalNumberOfAssignments" private field.]òjava"S1068:MAJORROPENZ 7f57ed6014d54c41337f0f286946fc7ch€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfr‚‰
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java1Remove this unused "solvedLessons" private field.^şjava"S1068:MAJORROPENZ 33ba5980522ac185bc2c2b9e83d5b4e4h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfs‚•
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java=Remove this unused "numberOfAssignmentsSolved" private field._újava"S1068:MAJORROPENZ 068fabda305dceb0197de97daa5a2016h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hft‚‘
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java9Remove this unused "numberOfLessonsSolved" private field.`éjava"S1068:MAJORROPENZ 531f96e2aebfb44cd229ec4cb1f012b0h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfu‚€
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java(Remove this unused "name" private field.gëjava"S1068:MAJORROPENZ 331b9364f9061cc5b52e39955f9a9727h€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfv‚‚
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java*Remove this unused "solved" private field.hõjava"S1068:MAJORROPENZ fcda19f29d5d4d90f5e4e62dbc3623fah€ÙÊ”š/r
+CODE_SMELLzAXmil2oZAkZ6yHwg_hfw‚Œ
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/ReportCardService.java4Remove this unused "numberOfAttempts" private field.i

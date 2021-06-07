@@ -1,0 +1,9 @@
+Ìjava"S3740:MAJORROPENZ 27a3ab1cf402187e9fce66ec9683a984hÄŸ îö/r
+CODE_SMELLzAXmil2oMAkZ6yHwg_hflÇÑ
+Mwebgoat-container/src/main/java/org/owasp/webgoat/service/SessionService.java/Provide the parametrized type for this generic.2Íjava"S1874:MINORROPENZ e80a87a747a80fa08ee8486bb2134f85hÄŸ îö/r
+CODE_SMELLzAXmil2oMAkZ6yHwg_hfmÇÅ
+Mwebgoat-container/src/main/java/org/owasp/webgoat/service/SessionService.java,Remove this use of "Date"; it is deprecated.*Íjava"S1874:MINORROPENZ a51e74b60cefa41b809957f62cf27c37hÄŸ îö/r
+CODE_SMELLzAXmil2oMAkZ6yHwg_hfnÇÅ
+Mwebgoat-container/src/main/java/org/owasp/webgoat/service/SessionService.java,Remove this use of "Date"; it is deprecated.+Ãjava"S2293:MINORROPENZ ca119304fe01e24baf098aa324daeab4hÄŸ îö/r
+CODE_SMELLzAXmil2oMAkZ6yHwg_hfoÇ„
+Mwebgoat-container/src/main/java/org/owasp/webgoat/service/SessionService.javaçReplace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)1

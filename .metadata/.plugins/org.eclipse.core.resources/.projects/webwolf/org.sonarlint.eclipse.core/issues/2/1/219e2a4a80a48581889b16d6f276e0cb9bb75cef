@@ -1,0 +1,22 @@
+
+o
+AXmil284AkZ6yHwg_hkV
+java:S1452@"&Remove usage of generic wildcard type.(õÎ¨£8€ÙÊ”š/RCRITICALZ
+CODE_SMELL
+
+AXmil284AkZ6yHwg_hkU
+java:S1128"BRemove this unused import 'org.owasp.webwolf.user.UserRepository'.(Ñä½¶úÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+Š
+AXmil284AkZ6yHwg_hkT
+java:S1128"?Remove this unused import 'org.owasp.webwolf.user.WebGoatUser'.(ŞØ‚ãüÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+•
+AXmil284AkZ6yHwg_hkS
+java:S1128 "ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8€ÙÊ”š/RMINORZ
+CODE_SMELL
+c
+java:S62125"/Declare this local variable with "var" instead.(‹İÿÉúÿÿÿÿ8«üœš/RINFOZ
+CODE_SMELL
+v
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(õÎ¨£8«üœš/RCRITICALZVULNERABILITY

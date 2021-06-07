@@ -1,0 +1,7 @@
+Ãcommon-java"DuplicatedBlocks:MAJORROPENhÄŸ îö/r
+CODE_SMELLzAXmilztdAkZ6yHwg_hMLÇt
+Dwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTQuiz.java,1 duplicated blocks of code must be removed.Öjava"S117:MINORROPENZ a6f9291c5bbafd0e3f55125ddb898a08hÄŸ îö/r
+CODE_SMELLzAXmilztdAkZ6yHwg_hMMÇù
+Dwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTQuiz.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.Öjava"S117:MINORROPENZ a6f9291c5bbafd0e3f55125ddb898a08hÄŸ îö/r
+CODE_SMELLzAXmilztdAkZ6yHwg_hMNÇù
+Dwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTQuiz.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.

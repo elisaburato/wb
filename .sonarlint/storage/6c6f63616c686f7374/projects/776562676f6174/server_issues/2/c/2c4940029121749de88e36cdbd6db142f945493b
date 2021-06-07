@@ -1,0 +1,26 @@
+†java"S1192:CRITICALROPENZ 6a0c95a56b5bac42a85b19171dfcf768h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcU‚š
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 9 times.l…java"S1192:CRITICALROPENZ 984cca22e5f60e65dc523f32640fff26h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcV‚™
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaIDefine a constant instead of duplicating this literal "password" 5 times.¾Åjava"S1192:CRITICALROPENZ 6a1456df02af7c97f6d50870685857d6h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcW‚Ù
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.java‰Define a constant instead of duplicating this literal "<!DOCTYPE html><html><body><form action=\"WEBGOATURL\" method=\"POST\">
+" 3 times.Œjava"S1192:CRITICALROPENZ 7e5a9f2be09b7005187cedc9ed60e68ah€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcX‚ 
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaQDefine a constant instead of duplicating this literal "/files/fake.html" 4 times.}ƒjava"S1192:CRITICALROPENZ 7e5a9f2be09b7005187cedc9ed60e68ah€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcY‚—
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaHDefine a constant instead of duplicating this literal "Referer" 4 times.}‘java"S1192:CRITICALROPENZ fe58f0a44c7953e8f0a95819e003fcebh€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcZ‚¥
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaVDefine a constant instead of duplicating this literal "</form></body></html>" 3 times.†java"S1192:CRITICALROPENZ 2843ff99c9409ca6b9b24493b3c36267h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hca‚š
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaKDefine a constant instead of duplicating this literal "WEBGOATURL" 4 times.=”java"S115:CRITICALROPENZ 6a1456df02af7c97f6d50870685857d6h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcb‚©
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.”java"S115:CRITICALROPENZ a020438be021755f3d2c908b218f2148h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcc‚©
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.!”java"S115:CRITICALROPENZ 8ead8b00b434cca64a6e87dab1fdbd97h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcd‚©
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.)”java"S115:CRITICALROPENZ 5fdbe9abe212969728abf0b97935f8a0h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hce‚©
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'..ójava"S125:MAJORROPENZ 097f676aacdd014ac61eec4bc23f6580h€ÙÊ”š/r
+CODE_SMELLzAXmil2NbAkZ6yHwg_hcf‚‹
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/CSRFTest.java<This block of commented-out lines of code should be removed.O

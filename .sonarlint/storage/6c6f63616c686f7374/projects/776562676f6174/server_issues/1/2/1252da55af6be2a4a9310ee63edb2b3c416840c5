@@ -1,0 +1,15 @@
+ùjava"S135:MINORROPENZ 14b3bff3c8e80c8b6c38ec7d3608ce06hÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hfxÇµ
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.javaYReduce the total number of break and continue statements in this loop to use at most one.9Ùjava"S3740:MAJORROPENZ 1080336844afde406573be03967ec296hÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hfyÇã
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.java/Provide the parametrized type for this generic.6Ûjava"S1128:MINORROPENZ 9f14bbcc49f6defa9238d757205a4ef0hÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hfzÇä
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.java.Remove this unused import 'java.util.HashMap'.ãjava"S1128:MINORROPENZ dfe516373e318f456e37bae51b7da5achÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hf0Ç¢
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.javaFRemove this unused import 'org.owasp.webgoat.lessons.LessonInfoModel'.Ûjava"S1068:MAJORROPENZ b35d05f2be4dedc3ecb4a74c0e89ce1chÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hf1Çä
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.java.Remove this unused "assignment" private field.bÔjava"S1068:MAJORROPENZ e386ae88f3d8006fb88a2cc0e30235c8hÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hf2ÇÜ
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.java*Remove this unused "solved" private field.c˙java"S1144:MAJORROPENZ fd00e748c2c1dc87650fc8a9d101018ehÄŸ îö/r
+CODE_SMELLzAXmil2omAkZ6yHwg_hf3Çë
+Twebgoat-container/src/main/java/org/owasp/webgoat/service/LessonProgressService.java5Remove this unused private "isLessonComplete" method.M

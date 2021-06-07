@@ -1,0 +1,5 @@
+Íjava"S1128:MINORROPENZ 19cb8c5da39a0086a224e990b71ec6f8hÄŸ îö/r
+CODE_SMELLzAXmil2jjAkZ6yHwg_he6ÇÅ
+Iwebgoat-container/src/main/java/org/owasp/webgoat/session/WebSession.java0Remove this unused import 'java.sql.Connection'.Ïjava"S1128:MINORROPENZ 7da68f67a145d24c5276f88d59ccaa53hÄŸ îö/r
+CODE_SMELLzAXmil2jjAkZ6yHwg_he7ÇÉ
+Iwebgoat-container/src/main/java/org/owasp/webgoat/session/WebSession.java2Remove this unused import 'java.sql.SQLException'.	

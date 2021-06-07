@@ -1,0 +1,41 @@
+
+v
+AXmil2Y2AkZ6yHwg_heYWeb:TableWithoutCaptionCheck" Add a description to this table.(¼ëùÏşÿÿÿÿ8€ÙÊ”š/RMINORZBUG
+•
+AXmil2Y2AkZ6yHwg_heb Web:TableHeaderHasIdOrScopeCheck"";Add either an 'id' or a 'scope' attribute to this <th> tag.(Èµî«ûÿÿÿÿ8€ÙÊ”š/RMAJORZBUG
+n
+AXmil2Y2AkZ6yHwg_heP	Web:S1827")Remove this deprecated "width" attribute.(Öá™²8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+n
+AXmil2Y2AkZ6yHwg_heT	Web:S1827")Remove this deprecated "width" attribute.(Íâú¼8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+h
+AXmil2Y2AkZ6yHwg_heO	Web:S5256"%Add "<th>" headers to this "<table>".(¼ëùÏşÿÿÿÿ8€ÙÊ”š/RMAJORZBUG
+s
+AXmil2Y2AkZ6yHwg_heR	Web:S1827")Remove this deprecated "width" attribute.(–Íò¹üÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+s
+AXmil2Y2AkZ6yHwg_heV	Web:S1827")Remove this deprecated "width" attribute.(›ÚÙÿÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+s
+AXmil2Y2AkZ6yHwg_heU	Web:S1827")Remove this deprecated "width" attribute.(®©Àÿÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+n
+AXmil2Y2AkZ6yHwg_heQ	Web:S1827")Remove this deprecated "width" attribute.(¨Í Í8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+•
+AXmil2Y2AkZ6yHwg_hea Web:TableHeaderHasIdOrScopeCheck!";Add either an 'id' or a 'scope' attribute to this <th> tag.(”§•—úÿÿÿÿ8€ÙÊ”š/RMAJORZBUG
+v
+AXmil2Y2AkZ6yHwg_heNWeb:TableWithoutCaptionCheck" Add a description to this table.(¼ëùÏşÿÿÿÿ8€ÙÊ”š/RMINORZBUG
+
+AXmil2Y2AkZ6yHwg_heZ Web:TableHeaderHasIdOrScopeCheck ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ƒˆ‰Ï8€ÙÊ”š/RMAJORZBUG
+u
+AXmil2Y2AkZ6yHwg_heXWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(Ş„‰‡øÿÿÿÿ8€ÙÊ”š/RMINORZBUG
+s
+AXmil2Y2AkZ6yHwg_heS	Web:S1827")Remove this deprecated "width" attribute.(ğ”„úÿÿÿÿ8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+u
+AXmil2Y2AkZ6yHwg_heMWeb:BoldAndItalicTagsCheck"!Replace this <b> tag by <strong>.(û”ÚÏşÿÿÿÿ8€ÙÊ”š/RMINORZBUG
+n
+AXmil2Y2AkZ6yHwg_heW	Web:S1827")Remove this deprecated "width" attribute.(ìå€8€ÙÊ”š/RMAJORZ
+CODE_SMELL

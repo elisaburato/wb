@@ -1,0 +1,6 @@
+Ìjava"S1700:MAJORROPENZ 088f7c8d424c5f9e1df77f49e9aa1c13h€ÙÊ”š/r
+CODE_SMELLzAXmil1gJAkZ6yHwg_hWt‚d
+Ewebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/Comments.javaRename field "comments"Dîjava"S2755:BLOCKERROPENZ 5f1d121042837f0a2992822c9f8930dah€ÙÊ”š/rVULNERABILITYzAXmil1gJAkZ6yHwg_hWu‚€
+Ewebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/Comments.java3Disable access to external entities in XML parsing.^òjava"S1117:MAJORROPENZ 20e0914f6326186a9e38470c037fb88ah€ÙÊ”š/r
+CODE_SMELLzAXmil1gJAkZ6yHwg_hWv‚‰
+Ewebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/Comments.java<Rename "comments" which hides the field declared at line 68.z

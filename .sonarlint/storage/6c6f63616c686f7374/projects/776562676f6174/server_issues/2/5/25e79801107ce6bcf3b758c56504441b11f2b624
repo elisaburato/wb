@@ -1,0 +1,27 @@
+³java"S1192:CRITICALROPENZ 26ec10f7c41ea420cf615702135966d5h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKs‚Ç
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaIDefine a constant instead of duplicating this literal "$.output" 3 times.&µjava"S1192:CRITICALROPENZ 34aade0805ee5a3b1dc2dab1dc4d713ah€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKt‚É
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 3 times.$Èjava"S1192:CRITICALROPENZ d8786591e29ffb7dbed8ce23302b38c5h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKu‚Ü
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.java^Define a constant instead of duplicating this literal "What is your favorite animal?" 6 times."³java"S1192:CRITICALROPENZ d8786591e29ffb7dbed8ce23302b38c5h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKv‚Ç
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaIDefine a constant instead of duplicating this literal "question" 8 times."Ëjava"S1192:CRITICALROPENZ 593e79c415937893dec77f3a1d399105h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKw‚ß
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaaDefine a constant instead of duplicating this literal "/PasswordReset/SecurityQuestions" 8 times.!¼java"S1192:CRITICALROPENZ 49e94f80dadb181f07bf62cf2d7b1a11h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKx‚Ð
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaRDefine a constant instead of duplicating this literal "$.lessonCompleted" 6 times.%¬java"S112:MAJORROPENZ 43afd00890382120cf2b2c7e8205eec6h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKy‚Ä
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one. ¬java"S112:MAJORROPENZ 76eacd1bddf656ce0cad0f4b4ac08658h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hKz‚Ä
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.*¬java"S112:MAJORROPENZ 4dcc99bc3a6270504c6a23e235950c2eh€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hK0‚Ä
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.:¬java"S112:MAJORROPENZ cc2d524457d0013979303a5d43b2459bh€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hK1‚Ä
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.Hœjava"S1128:MINORROPENZ 0a04c167607b9670f9500a21362a8a66h€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hK2‚³
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.java5Remove this unused import 'org.junit.runner.RunWith'.Ãjava"S1128:MINORROPENZ 6d7d19f161d004853b12a2b165f6ddbeh€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hK3‚Ú
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.java\Remove this unused import 'org.springframework.test.context.junit4.SpringJUnit4ClassRunner'.”java"S1128:MINORROPENZ 4b9d8d2722a9782414debc72637562dah€ÙÊ”š/r
+CODE_SMELLzAXmilzjkAkZ6yHwg_hK4‚«
+vwebgoat-lessons/password-reset/src/main/test/java/org/owasp/webgoat/password_reset/SecurityQuestionAssignmentTest.java-Remove this unused import 'org.junit.Before'.

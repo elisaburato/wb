@@ -1,0 +1,20 @@
+­java"S2095:BLOCKERROPENZ 920a28112bb032ae540ce010c8501e30h€ÙÊ”š/rBUGzAXmilzADAkZ6yHwg_hDb‚É
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.javaOUse try-with-resources or close this "PreparedStatement" in a "finally" clause.:¼java"S1192:CRITICALROPENZ e021a5d363a6a7b9f5547076b7a767c1h€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDc‚Ð
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.javaVDefine a constant instead of duplicating this literal "<br> Your query was: " 4 times.A³java"S117:MINORROPENZ d1c64e049e3a37ce75fe6373f71f6d7ah€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDd‚Ë
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.3³java"S117:MINORROPENZ fe09f702d2de07631e18d54051ce1774h€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDe‚Ë
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.7˜java"S1141:MAJORROPENZ 80d5b17efc16ace990c07580fc3e85ebh€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDf‚¯
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.java5Extract this nested try block into a separate method.=˜java"S1141:MAJORROPENZ 80d5b17efc16ace990c07580fc3e85ebh€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDg‚¯
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.java5Extract this nested try block into a separate method.FÂjava"S1149:MAJORROPENZ 3a26e677cf1e77a7eafc563c6a198a95h€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDh‚Ù
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".KÏjava"S1130:MINORROPENZ d1c64e049e3a37ce75fe6373f71f6d7ah€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDi‚æ
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.javalRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.3žjava"S125:MAJORROPENZ dd14b6b7c730a77d1969bc3d2fc21e6ah€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDk‚¶
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.java<This block of commented-out lines of code should be removed.EŠjava"S1125:MINORROPENZ cd08524ced6201d0129aa609dc78faf3h€ÙÊ”š/r
+CODE_SMELLzAXmilzADAkZ6yHwg_hDl‚¡
+rwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson5b.java'Remove the unnecessary boolean literal.I

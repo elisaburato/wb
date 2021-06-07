@@ -1,0 +1,10 @@
+java"S1192:CRITICALROPENZ b6b68a3ead73a710e133fe7408e76798h€ÙÊ”š/r
+CODE_SMELLzAXmil0PAAkZ6yHwg_hPV‚£
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaQDefine a constant instead of duplicating this literal "csrf-get-success" 6 times.?†java"S1192:CRITICALROPENZ 504b474163ef9ec5bb8afb9bbc0c16fch€ÙÊ”š/r
+CODE_SMELLzAXmil0PAAkZ6yHwg_hPW‚š
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaHDefine a constant instead of duplicating this literal "success" 4 times.@†java"S1192:CRITICALROPENZ 2135ee5d427c72dd815757b6ffa1dbfah€ÙÊ”š/r
+CODE_SMELLzAXmil0PAAkZ6yHwg_hPX‚š
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaHDefine a constant instead of duplicating this literal "message" 4 times.AÔjava"S2119:CRITICALROPENZ 7a9e6ba0d8f1aa375d2562e991e4ba99h€ÙÊ”š/rBUGzAXmil0PAAkZ6yHwg_hPZ‚p
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaSave and re-use this "Random".>Ôjava"S2119:CRITICALROPENZ 7a9e6ba0d8f1aa375d2562e991e4ba99h€ÙÊ”š/rBUGzAXmil0PAAkZ6yHwg_hPb‚p
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaSave and re-use this "Random".DÔjava"S2119:CRITICALROPENZ 7a9e6ba0d8f1aa375d2562e991e4ba99h€ÙÊ”š/rBUGzAXmil0PAAkZ6yHwg_hPd‚p
+Jwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.javaSave and re-use this "Random".O

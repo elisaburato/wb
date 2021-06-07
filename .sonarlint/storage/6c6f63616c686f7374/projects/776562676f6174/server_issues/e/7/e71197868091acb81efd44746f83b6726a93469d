@@ -1,0 +1,5 @@
+Èjava"S106:MAJORROPENZ c37f26c485b293e96bacf5201648c780hÄŸ îö/r
+CODE_SMELLzAXmil3F8AkZ6yHwg_hmIÇÅ
+@webgoat-server/src/main/java/org/owasp/webgoat/StartWebGoat.java9Replace this use of System.out or System.err by a logger.>Èjava"S106:MAJORROPENZ 7d82df3dc5af2eb86a474453cd4058b3hÄŸ îö/r
+CODE_SMELLzAXmil3F8AkZ6yHwg_hmJÇÅ
+@webgoat-server/src/main/java/org/owasp/webgoat/StartWebGoat.java9Replace this use of System.out or System.err by a logger.C

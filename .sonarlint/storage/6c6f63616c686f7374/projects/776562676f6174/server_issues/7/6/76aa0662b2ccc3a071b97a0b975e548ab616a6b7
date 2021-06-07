@@ -1,0 +1,4 @@
+Ôjava"S4973:MAJORROPENZ 80759d0df5fda0aba65ec0629946695bhÄŸ îö/rBUGzAXmil0PjAkZ6yHwg_hPiÇç
+Lwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/ForgedReviews.java9Use the "equals" method if value comparison was intended.gôjava"S115:CRITICALROPENZ 3ba4d1ad51ab5fa90014b86f74770defhÄŸ îö/r
+CODE_SMELLzAXmil0PjAkZ6yHwg_hPjÇÆ
+Lwebgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/ForgedReviews.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.;

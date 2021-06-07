@@ -1,0 +1,5 @@
+ûjava"S1192:CRITICALROPENZ 7cd9b530d1211b05e6c164b38d2ebb07h€ÙÊ”š/r
+CODE_SMELLzAXmil3DlAkZ6yHwg_hlv‚
+Awebwolf/src/test/java/org/owasp/webwolf/user/UserServiceTest.javaFDefine a constant instead of duplicating this literal "guest" 4 times.2ÿjava"S100:MINORROPENZ be47f0738335b351e5809e4b0edc9a2ah€ÙÊ”š/r
+CODE_SMELLzAXmil3DlAkZ6yHwg_hlx‚—
+Awebwolf/src/test/java/org/owasp/webwolf/user/UserServiceTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.>

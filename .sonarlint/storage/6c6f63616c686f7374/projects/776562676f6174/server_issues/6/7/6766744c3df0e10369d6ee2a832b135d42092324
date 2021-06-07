@@ -1,0 +1,12 @@
+Ÿjava"S112:MAJORROPENZ fdda924e16c6c8cb6afc035461946766h€ÙÊ”š/r
+CODE_SMELLzAXmil0XqAkZ6yHwg_hQU‚·
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.javaFDefine and throw a dedicated exception instead of using a generic one.D‰java"S3740:MAJORROPENZ c0df6733a6c76b912c398c1120dab22eh€ÙÊ”š/r
+CODE_SMELLzAXmil0XqAkZ6yHwg_hQV‚ 
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.java/Provide the parametrized type for this generic.b‰java"S3740:MAJORROPENZ c0df6733a6c76b912c398c1120dab22eh€ÙÊ”š/r
+CODE_SMELLzAXmil0XqAkZ6yHwg_hQW‚ 
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.java/Provide the parametrized type for this generic.b–java"S2259:MAJORROPENZ b03d3e7dcadf2e20cd8c5b70444b338ch€ÙÊ”š/rBUGzAXmil0XqAkZ6yHwg_hQX‚´
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.javaCA "NullPointerException" could be thrown; "nodes" is nullable here.d¹java"S1149:MAJORROPENZ 4fe9427a77853774c7538ae96756e8ebh€ÙÊ”š/r
+CODE_SMELLzAXmil0XqAkZ6yHwg_hQY‚Ð
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".R›java"S1075:MINORROPENZ d1efc3aee51b24a25e081f40c6e12776h€ÙÊ”š/r
+CODE_SMELLzAXmil0XqAkZ6yHwg_hQZ‚²
+iwebgoat-lessons/client-side-filtering/src/main/java/org/owasp/webgoat/client_side_filtering/Salaries.javaARefactor your code to get this URI from a customizable parameter.=

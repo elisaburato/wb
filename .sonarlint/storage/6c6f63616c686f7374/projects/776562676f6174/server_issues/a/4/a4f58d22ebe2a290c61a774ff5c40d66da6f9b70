@@ -1,0 +1,10 @@
+ìjava"S3655:MAJORROPENZ 73141d11517c15d05ee78e45e8e5324fh€ÙÊ”š/rBUGzAXmil2pSAkZ6yHwg_hf-‚Š
+Mwebgoat-container/src/main/java/org/owasp/webgoat/controller/StartLesson.java5Call "lesson.isPresent()" before accessing the value.Wùjava"S1854:MAJORROPENZ b2b2f384dc4897b53a2c6b6cb581c6a0h€ÙÊ”š/r
+CODE_SMELLzAXmil2pSAkZ6yHwg_hf_‚
+Mwebgoat-container/src/main/java/org/owasp/webgoat/controller/StartLesson.java;Remove this useless assignment to local variable "context".Oùjava"S125:MAJORROPENZ ad6cb780758625ddd56be218bbe5ab7ah€ÙÊ”š/r
+CODE_SMELLzAXmil2pSAkZ6yHwg_hgA‚‘
+Mwebgoat-container/src/main/java/org/owasp/webgoat/controller/StartLesson.java<This block of commented-out lines of code should be removed.Pïjava"S1135:INFOROPENZ b2b2f384dc4897b53a2c6b6cb581c6a0h€ÙÊ”š/r
+CODE_SMELLzAXmil2pSAkZ6yHwg_hgB‚‡
+Mwebgoat-container/src/main/java/org/owasp/webgoat/controller/StartLesson.java2Complete the task associated to this TODO comment.Oêjava"S1481:MINORROPENZ b2b2f384dc4897b53a2c6b6cb581c6a0h€ÙÊ”š/r
+CODE_SMELLzAXmil2pSAkZ6yHwg_hgC‚
+Mwebgoat-container/src/main/java/org/owasp/webgoat/controller/StartLesson.java,Remove this unused "context" local variable.O

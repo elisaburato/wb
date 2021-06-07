@@ -1,0 +1,5 @@
+Ájava"S1452:CRITICALROPENZ 428269e0a3a4e7f63164ecd20d8aa0c6hÄŸ îö/r
+CODE_SMELLzAXmilzqEAkZ6yHwg_hL_Ç|
+Mwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTVotesEndpoint.java&Remove usage of generic wildcard type.èÄjava"S2130:MINORROPENZ 1a4ac827b473079866178d929791a496hÄŸ îö/r
+CODE_SMELLzAXmilzqEAkZ6yHwg_hMAÇó
+Mwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTVotesEndpoint.javaAUse "Boolean.parseBoolean" for this string-to-boolean conversion.¨

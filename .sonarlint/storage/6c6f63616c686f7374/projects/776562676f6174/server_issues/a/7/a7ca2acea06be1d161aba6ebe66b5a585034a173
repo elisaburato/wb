@@ -1,0 +1,15 @@
+âjava"S1192:CRITICALROPENZ 7dd3e6c88542861f3735aff49b411ef5hÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXGÇù
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaKDefine a constant instead of duplicating this literal "$.feedback" 4 times.=îjava"S1192:CRITICALROPENZ 6d3e5ffa3c511bdafba4478baf66bdafhÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXHÇ®
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaVDefine a constant instead of duplicating this literal "assignment.not.solved" 3 times.Eäjava"S1192:CRITICALROPENZ 7cb7805b97affc12c615827f0f75150dhÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXIÇû
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaLDefine a constant instead of duplicating this literal "/xxe/simple" 4 times.:Äjava"S112:MAJORROPENZ 0d88c52bf7ab94280f8e5102cff6664fhÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXJÇò
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaFDefine and throw a dedicated exception instead of using a generic one.8Äjava"S112:MAJORROPENZ f70ae909e72edf3a31e746225323f933hÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXKÇò
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaFDefine and throw a dedicated exception instead of using a generic one.AÄjava"S112:MAJORROPENZ 76e17d58576954339bfe022ee620f687hÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXLÇò
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaFDefine and throw a dedicated exception instead of using a generic one.IÄjava"S112:MAJORROPENZ 9567864a1499cf5b40d66ca788e097c6hÄŸ îö/r
+CODE_SMELLzAXmil1huAkZ6yHwg_hXMÇò
+Jwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/SimpleXXETest.javaFDefine and throw a dedicated exception instead of using a generic one.Q

@@ -1,0 +1,9 @@
+Ójava"S1068:MAJORROPENZ 2b3231417a479a012b9b1aef9cf29daahÄŸ îö/r
+CODE_SMELLzAXmil2lWAkZ6yHwg_hfMÇÖ
+Nwebgoat-container/src/main/java/org/owasp/webgoat/lessons/LessonInfoModel.java/Remove this unused "lessonTitle" private field.Ïjava"S1068:MAJORROPENZ 2cb2bee6db5cfd069489580d3013ee77hÄŸ îö/r
+CODE_SMELLzAXmil2lWAkZ6yHwg_hfNÇÉ
+Nwebgoat-container/src/main/java/org/owasp/webgoat/lessons/LessonInfoModel.java-Remove this unused "hasSource" private field.Ójava"S1068:MAJORROPENZ 3152cd161a805a1deb7774ba7fe3850dhÄŸ îö/r
+CODE_SMELLzAXmil2lWAkZ6yHwg_hfOÇÖ
+Nwebgoat-container/src/main/java/org/owasp/webgoat/lessons/LessonInfoModel.java/Remove this unused "hasSolution" private field.Íjava"S1068:MAJORROPENZ 602e634a8392ccd8b78fe4c8611cd14ahÄŸ îö/r
+CODE_SMELLzAXmil2lWAkZ6yHwg_hfPÇÅ
+Nwebgoat-container/src/main/java/org/owasp/webgoat/lessons/LessonInfoModel.java+Remove this unused "hasPlan" private field.

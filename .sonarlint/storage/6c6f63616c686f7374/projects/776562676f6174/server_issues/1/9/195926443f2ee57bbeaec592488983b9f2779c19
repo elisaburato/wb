@@ -1,0 +1,22 @@
+¤java"S2095:BLOCKERROPENZ 19055d29ee8e473a082245d08086501ch€ÙÊ”š/rBUGzAXmily-RAkZ6yHwg_hDI‚À
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.javaGUse try-with-resources or close this "!Unknown!" in a "finally" clause.@­java"S1192:CRITICALROPENZ a9537d2007404450663a8a17733abdb6h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDJ‚Á
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.javaHDefine a constant instead of duplicating this literal "</span>" 3 times.NÊjava"S1192:CRITICALROPENZ a9537d2007404450663a8a17733abdb6h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDK‚Þ
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.javaeDefine a constant instead of duplicating this literal "<br><span class='feedback-negative'>" 3 times.N²java"S117:MINORROPENZ 88b6c16ff8ef18dd94f1b2db712928f4h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDL‚Ê
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.7²java"S117:MINORROPENZ a1a2674b1911f4a8339d30a65913c6dfh€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDM‚Ê
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.javaQRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.;—java"S1141:MAJORROPENZ 80d5b17efc16ace990c07580fc3e85ebh€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDN‚®
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java5Extract this nested try block into a separate method.?Ájava"S1149:MAJORROPENZ 3a26e677cf1e77a7eafc563c6a198a95h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDO‚Ø
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".<Ájava"S1149:MAJORROPENZ dd9c6cc9e9ed2220dbd74ae7a403cd0eh€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDP‚Ø
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".Yšjava"S106:MAJORROPENZ f89b7db6af5b1c30b3f82700ff04bf35h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDR‚²
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java9Replace this use of System.out or System.err by a logger.Mšjava"S106:MAJORROPENZ f89b7db6af5b1c30b3f82700ff04bf35h€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDS‚²
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java9Replace this use of System.out or System.err by a logger.T‹java"S1481:MINORROPENZ b80ecc51f14f49fc95775a5b2a5b1efdh€ÙÊ”š/r
+CODE_SMELLzAXmily-RAkZ6yHwg_hDT‚¢
+qwebgoat-lessons/sql-injection/src/main/java/org/owasp/webgoat/sql_injection/introduction/SqlInjectionLesson9.java)Remove this unused "test" local variable.C

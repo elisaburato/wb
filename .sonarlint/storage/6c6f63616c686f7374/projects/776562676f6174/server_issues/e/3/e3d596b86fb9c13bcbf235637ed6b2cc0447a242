@@ -1,0 +1,13 @@
+‘java"S1192:CRITICALROPENZ e6197cf17a81eacf236a9fc5f6908e5bh€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd2‚¥
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaWDefine a constant instead of duplicating this literal "WebGoat 8.0 rocks... (" 3 times.V„java"S1192:CRITICALROPENZ 4d80f33d309e183d49fcc97c8a87894ch€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd3‚˜
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaJDefine a constant instead of duplicating this literal "blind.dtd" 3 times.:“java"S115:CRITICALROPENZ 855b56276814831b17323d320598e01bh€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd4‚¨
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.“java"S115:CRITICALROPENZ 5f0d5bb28b2366da3588a938bb73c860h€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd5‚¨
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.“java"S115:CRITICALROPENZ 1e390d0f5819fca2dc7ae9296baf85d5h€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd6‚¨
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.“java"S115:CRITICALROPENZ 867c79e7e2ea89eebd97fc0f5f18e891h€ÙÊ”š/r
+CODE_SMELLzAXmil2TzAkZ6yHwg_hd7‚¨
+Fwebgoat-integration-tests/src/test/java/org/owasp/webgoat/XXETest.javaZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.

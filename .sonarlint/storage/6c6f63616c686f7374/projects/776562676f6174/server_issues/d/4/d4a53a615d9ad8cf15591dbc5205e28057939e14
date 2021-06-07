@@ -1,0 +1,17 @@
+ïjava"S1192:CRITICALROPENZ ecfa13f1ec2530638e5fe7a034443fc3hÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLJÇ©
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaLDefine a constant instead of duplicating this literal "/JWT/secret" 5 times.Qîjava"S1192:CRITICALROPENZ 70c05e8a2dd50424b755138eea87226ahÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLKÇ®
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 3 times.kèjava"S1192:CRITICALROPENZ 84baa3e5b7e247f7411f3ba31ffa7987hÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLLÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine a constant instead of duplicating this literal "token" 5 times.Rãjava"S112:MAJORROPENZ 2472e023b3798f47263fc7979d48db6dhÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLMÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Mãjava"S112:MAJORROPENZ 97f833fa0c3e7a6995ca88040be4c41dhÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLNÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.Xãjava"S112:MAJORROPENZ f2d2213769ff692c78555271c6f0c7d3hÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLOÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.cãjava"S112:MAJORROPENZ 59adabe37c6ee040e6abace8b61b7540hÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLPÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.oãjava"S112:MAJORROPENZ 3e01a73b9c31697c9f44cfafa3192033hÄŸ îö/r
+CODE_SMELLzAXmilzm1AkZ6yHwg_hLQÇ£
+Uwebgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.javaFDefine and throw a dedicated exception instead of using a generic one.z

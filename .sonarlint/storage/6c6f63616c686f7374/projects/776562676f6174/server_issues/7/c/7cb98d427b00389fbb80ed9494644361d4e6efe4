@@ -1,0 +1,7 @@
+ğcommon-java"DuplicatedBlocks:MAJORROPENh€ÙÊ”š/r
+CODE_SMELLzAXmilz7lAkZ6yHwg_hNs‚—
+gwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadFixTest.java,2 duplicated blocks of code must be removed.java"S112:MAJORROPENZ ce28ba5d985b854f949f07538400a8f5h€ÙÊ”š/r
+CODE_SMELLzAXmilz7lAkZ6yHwg_hNt‚µ
+gwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadFixTest.javaFDefine and throw a dedicated exception instead of using a generic one."java"S112:MAJORROPENZ 13f9ecc3289aeb7b18195efc5cb9f091h€ÙÊ”š/r
+CODE_SMELLzAXmilz7lAkZ6yHwg_hNu‚µ
+gwebgoat-lessons/path-traversal/src/test/java/org/owasp/webgoat/path_traversal/ProfileUploadFixTest.javaFDefine and throw a dedicated exception instead of using a generic one..

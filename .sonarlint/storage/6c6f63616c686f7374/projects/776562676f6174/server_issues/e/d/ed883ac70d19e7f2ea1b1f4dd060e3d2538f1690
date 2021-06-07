@@ -1,0 +1,7 @@
+†java"S1192:CRITICALROPENZ 6a0c95a56b5bac42a85b19171dfcf768h€ÙÊ”š/r
+CODE_SMELLzAXmil2N4AkZ6yHwg_hco‚š
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IDORTest.javaKDefine a constant instead of duplicating this literal "JSESSIONID" 3 times.<˜java"S1612:MINORROPENZ 400a72c34b8c8667d5c8943d5e542768h€ÙÊ”š/r
+CODE_SMELLzAXmil2N4AkZ6yHwg_hcp‚¯
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IDORTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)!˜java"S1612:MINORROPENZ 20da29985cbe2a3112c242c1047b92ceh€ÙÊ”š/r
+CODE_SMELLzAXmil2N4AkZ6yHwg_hcq‚¯
+Gwebgoat-integration-tests/src/test/java/org/owasp/webgoat/IDORTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)"

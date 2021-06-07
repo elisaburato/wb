@@ -1,0 +1,9 @@
+ûjava"S1871:MAJORROPENZ 3a5f410512b9694a27bb218bec857d07h€ÙÊ”š/r
+CODE_SMELLzAXmil2-vAkZ6yHwg_hkq‚’
+>webwolf/src/main/java/org/owasp/webwolf/requests/Requests.javaLThis branch's code block is the same as the block for the branch on line 86.XÖjava"S1068:MAJORROPENZ 62257107060ca679dcd2d9e3492d5f87h€ÙÊ”š/r
+CODE_SMELLzAXmil2-vAkZ6yHwg_hkr‚n
+>webwolf/src/main/java/org/owasp/webwolf/requests/Requests.java(Remove this unused "date" private field.AÖjava"S1068:MAJORROPENZ 94174bb592e2fae512aa564f73892c5ah€ÙÊ”š/r
+CODE_SMELLzAXmil2-vAkZ6yHwg_hks‚n
+>webwolf/src/main/java/org/owasp/webwolf/requests/Requests.java(Remove this unused "path" private field.BÖjava"S1068:MAJORROPENZ 4850a623c6f568b7172b9e97d6cd8a02h€ÙÊ”š/r
+CODE_SMELLzAXmil2-vAkZ6yHwg_hkt‚n
+>webwolf/src/main/java/org/owasp/webwolf/requests/Requests.java(Remove this unused "json" private field.C

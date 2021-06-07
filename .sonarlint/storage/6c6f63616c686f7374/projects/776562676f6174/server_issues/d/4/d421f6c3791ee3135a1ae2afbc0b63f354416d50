@@ -1,0 +1,13 @@
+»java"S1192:CRITICALROPENZ c0c3efb1ce1c63ff8065f5277bed1e7ch€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-a‚Ï
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.javaHDefine a constant instead of duplicating this literal "contact" 3 times.6µjava"S112:MAJORROPENZ 9f26948b02e4d50c67a9f95defcdc7c9h€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-b‚Í
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.javaFDefine and throw a dedicated exception instead of using a generic one.3µjava"S112:MAJORROPENZ f893a15d9fc0e76be09cee97c81389dah€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-c‚Í
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.javaFDefine and throw a dedicated exception instead of using a generic one.=µjava"S112:MAJORROPENZ 0db956b9b56ecf9523e7122da1d0115fh€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-d‚Í
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.javaFDefine and throw a dedicated exception instead of using a generic one.GÐjava"S1612:MINORROPENZ 1f8107641d02a0b6242173ff3ae32c57h€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-e‚ç
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)BÐjava"S1612:MINORROPENZ 835c1367a334e93354a3097e0e72803ch€ÙÊ”š/r
+CODE_SMELLzAXmilydEAkZ6yHwg_g-f‚ç
+webgoat-lessons/vulnerable-components/src/test/java/org/owasp/webgoat/vulnerable_components/VulnerableComponentsLessonTest.java`Replace this lambda with a method reference. (sonar.java.source not set. Assuming 8 or greater.)L

@@ -1,0 +1,5 @@
+Üjava"S112:MAJORROPENZ 70ffeae033356fcc7cc3b2b24117446fhÄŸ îö/r
+CODE_SMELLzAXmil2oyAkZ6yHwg_hf4Çû
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/LabelDebugService.javaFDefine and throw a dedicated exception instead of using a generic one.Tœjava"S2293:MINORROPENZ 4606c1820385427cfa0ab99d1c1238e6hÄŸ îö/r
+CODE_SMELLzAXmil2oyAkZ6yHwg_hf5ÇÊ
+Pwebgoat-container/src/main/java/org/owasp/webgoat/service/LabelDebugService.javaçReplace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)`

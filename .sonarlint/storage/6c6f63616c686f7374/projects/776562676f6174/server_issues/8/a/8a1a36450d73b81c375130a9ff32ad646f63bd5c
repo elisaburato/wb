@@ -1,0 +1,7 @@
+ˆjava"S1192:CRITICALROPENZ ca64da112552c0f961e4d9245fd6b4beh€ÙÊ”š/r
+CODE_SMELLzAXmil1gbAkZ6yHwg_hWw‚œ
+Fwebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/SimpleXXE.javaNDefine a constant instead of duplicating this literal "applySecurity" 3 times.Iüjava"S112:MAJORROPENZ 5e4831844bbe072ac88d1ba075ea6286h€ÙÊ”š/r
+CODE_SMELLzAXmil1gbAkZ6yHwg_hWx‚”
+Fwebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/SimpleXXE.javaFDefine and throw a dedicated exception instead of using a generic one.Eòjava"S125:MAJORROPENZ ab7276fbb8e9bcd326f92b7149b37491h€ÙÊ”š/r
+CODE_SMELLzAXmil1gbAkZ6yHwg_hWy‚Š
+Fwebgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/SimpleXXE.java<This block of commented-out lines of code should be removed.M

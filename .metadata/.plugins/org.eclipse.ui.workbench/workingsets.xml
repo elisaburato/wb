@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621937297591_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=webgoat-container/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-container/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=auth-bypass/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=auth-bypass/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=challenge/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=challenge/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cross-site-scripting/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cross-site-scripting/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xxe/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xxe/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cia/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cia/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=client-side-filtering/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=client-side-filtering/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=http-basics/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=http-basics/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=idor/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=idor/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-deserialization/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-deserialization/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vulnerable-components/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vulnerable-components/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=html-tampering/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=html-tampering/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-lesson-template/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-lesson-template/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bypass-restrictions/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bypass-restrictions/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chrome-dev-tools/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chrome-dev-tools/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=crypto/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=crypto/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=csrf/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=csrf/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=http-proxies/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=http-proxies/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-login/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-login/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=jwt/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=jwt/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=missing-function-ac/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=missing-function-ac/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=password-reset/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=password-reset/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=path-traversal/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=path-traversal/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=secure-passwords/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=secure-passwords/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=sql-injection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=sql-injection/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ssrf/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ssrf/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-introduction/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-introduction/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-server/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf-introduction/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf-introduction/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621937297618_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=webgoat-container/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-container/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=auth-bypass/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=challenge/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cross-site-scripting/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xxe/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=cia/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=client-side-filtering/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-deserialization/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=insecure-deserialization/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vulnerable-components/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=bypass-restrictions/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chrome-dev-tools/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=crypto/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=csrf/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=http-proxies/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=jwt/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=missing-function-ac/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=path-traversal/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=sql-injection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ssrf/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-integration-tests/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webgoat-integration-tests/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=webwolf/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621937361132_3" label="webgoat-parent" name="webgoat-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-container" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/secure-passwords" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/insecure-login" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-lessons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/path-traversal" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webwolf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-integration-tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/crypto" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/bypass-restrictions" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vulnerable-components" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sql-injection" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jwt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/chrome-dev-tools" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cross-site-scripting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/password-reset" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/challenge" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/docker" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webwolf-introduction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-lesson-template" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/insecure-deserialization" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-basics" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/client-side-filtering" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ssrf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/missing-function-ac" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webgoat-introduction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/html-tampering" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/http-proxies" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xxe" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/auth-bypass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/csrf" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621937311438_2" label="Window Working Set" name="Aggregate for window 1621937311438"/>
+</workingSetManager>

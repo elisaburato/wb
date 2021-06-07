@@ -1,0 +1,7 @@
+…java"S1192:CRITICALROPENZ 8cddb06626c22ac9427ca37a14ee082dh€ÙÊ”š/r
+CODE_SMELLzAXmil3DIAkZ6yHwg_hlr‚™
+Cwebwolf/src/test/java/org/owasp/webwolf/user/UserValidatorTest.javaNDefine a constant instead of duplicating this literal "validUserForm" 3 times.2ıjava"S1192:CRITICALROPENZ 5f0757e2276210b80e00094770ae0e89h€ÙÊ”š/r
+CODE_SMELLzAXmil3DIAkZ6yHwg_hls‚‘
+Cwebwolf/src/test/java/org/owasp/webwolf/user/UserValidatorTest.javaFDefine a constant instead of duplicating this literal "guest" 3 times./java"S100:MINORROPENZ 213cb91d916e941638d9006874851583h€ÙÊ”š/r
+CODE_SMELLzAXmil3DIAkZ6yHwg_hlu‚™
+Cwebwolf/src/test/java/org/owasp/webwolf/user/UserValidatorTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.]

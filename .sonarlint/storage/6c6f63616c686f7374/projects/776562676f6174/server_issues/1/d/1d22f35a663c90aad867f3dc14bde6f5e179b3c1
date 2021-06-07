@@ -1,0 +1,13 @@
+¥java"S112:MAJORROPENZ 98784cee66a5a3d5863fb89c8e98d006h€ÙÊ”š/r
+CODE_SMELLzAXmil2FnAkZ6yHwg_hbn‚½
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.javaFDefine and throw a dedicated exception instead of using a generic one.@¥java"S112:MAJORROPENZ d0b1ffec78033b4f6bf57ef96d8016f7h€ÙÊ”š/r
+CODE_SMELLzAXmil2FoAkZ6yHwg_hbo‚½
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.javaFDefine and throw a dedicated exception instead of using a generic one.I¡java"S1128:MINORROPENZ 56843d1f64dcd767bebdc3ceb385ed00h€ÙÊ”š/r
+CODE_SMELLzAXmil2FoAkZ6yHwg_hbp‚¸
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.javaARemove this unused import 'org.mockito.junit.MockitoJUnitRunner'.¾java"S1450:MINORROPENZ b4a3ffa9ecfb3b739519a563251ff1aeh€ÙÊ”š/r
+CODE_SMELLzAXmil2FoAkZ6yHwg_hbq‚Õ
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.java^Remove the "mockDisplayUser" field and declare it as a local variable in the relevant methods.0­java"S100:MINORROPENZ 98784cee66a5a3d5863fb89c8e98d006h€ÙÊ”š/r
+CODE_SMELLzAXmil2FoAkZ6yHwg_hbr‚Å
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.javaNRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.@“java"S1068:MAJORROPENZ b4a3ffa9ecfb3b739519a563251ff1aeh€ÙÊ”š/r
+CODE_SMELLzAXmil2FoAkZ6yHwg_hbs‚ª
+owebgoat-lessons/missing-function-ac/src/test/java/org/owasp/webgoat/missing_ac/MissingFunctionYourHashTest.java3Remove this unused "mockDisplayUser" private field.0

@@ -1,0 +1,14 @@
+
+ˆ
+AXmil2n9AkZ6yHwg_hfk
+java:S1128/"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8€ÙÊ”š/RMINORZ
+CODE_SMELL
+_
+java:S1874R"/Remove this use of "isEmpty"; it is deprecated.(ùçéÉ8ÏÐœœš/RMINORZ
+CODE_SMELL
+c
+java:S6212S"/Declare this local variable with "var" instead.(†ÝÃëûÿÿÿÿ8ÏÐœœš/RINFOZ
+CODE_SMELL
+^
+java:S6212W"/Declare this local variable with "var" instead.(¤þ“ö8ÏÐœœš/RINFOZ
+CODE_SMELL

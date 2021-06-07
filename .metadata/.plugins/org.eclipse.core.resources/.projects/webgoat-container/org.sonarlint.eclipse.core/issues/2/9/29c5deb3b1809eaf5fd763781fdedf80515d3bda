@@ -1,0 +1,38 @@
+
+u
+AXmil2omAkZ6yHwg_hfy
+java:S37406"/Provide the parametrized type for this generic.(³‰…8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+{
+AXmil2omAkZ6yHwg_hf3
+java:S1144M"5Remove this unused private "isLessonComplete" method.(­¶™ë8€ÙÊ”š/RMAJORZ
+CODE_SMELL
+£
+AXmil2omAkZ6yHwg_hfx	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(šµ°ÿÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+Œ
+AXmil2omAkZ6yHwg_hf0
+java:S1128"FRemove this unused import 'org.owasp.webgoat.lessons.LessonInfoModel'.(õ­±8€ÙÊ”š/RMINORZ
+CODE_SMELL
+y
+AXmil2omAkZ6yHwg_hfz
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+c
+java:S6212+"/Declare this local variable with "var" instead.(ãûƒ·øÿÿÿÿ8¿Şœœš/RINFOZ
+CODE_SMELL
+c
+java:S6212,"/Declare this local variable with "var" instead.(ñåùÿÿÿÿ8¿Şœœš/RINFOZ
+CODE_SMELL
+^
+java:S6212/"/Declare this local variable with "var" instead.(»‚‘8¿Şœœš/RINFOZ
+CODE_SMELL
+^
+java:S62128"/Declare this local variable with "var" instead.(€ËĞä8¿Şœœš/RINFOZ
+CODE_SMELL
+c
+java:S6212N"/Declare this local variable with "var" instead.(¼ª÷ñÿÿÿÿÿ8¿Şœœš/RINFOZ
+CODE_SMELL
+^
+java:S6212P"/Declare this local variable with "var" instead.(€ËĞä8¿Şœœš/RINFOZ
+CODE_SMELL

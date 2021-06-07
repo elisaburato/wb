@@ -1,0 +1,11 @@
+ájava"S1128:MINORROPENZ bc5b4978a9353f627aaf686e9377479dh€ÙÊ”š/r
+CODE_SMELLzAXmil2lBAkZ6yHwg_hfH‚y
+Ewebgoat-container/src/main/java/org/owasp/webgoat/lessons/Lesson.java,Remove this unused import 'lombok.Singular'.ïjava"S5993:MAJORROPENZ 6cce6e6c3aec82949d9fe5cc8f20eb3fh€ÙÊ”š/r
+CODE_SMELLzAXmil2lBAkZ6yHwg_hfI‚†
+Ewebgoat-container/src/main/java/org/owasp/webgoat/lessons/Lesson.java9Change the visibility of this constructor to "protected".*ïjava"S3400:MINORROPENZ 4fb1d022621b4da84b5f112dc4c8b7dah€ÙÊ”š/r
+CODE_SMELLzAXmil2lBAkZ6yHwg_hfJ‚†
+Ewebgoat-container/src/main/java/org/owasp/webgoat/lessons/Lesson.java9Remove this method and declare a constant for this value.^Ûjava"S1068:MAJORROPENZ 4802f25182c28623ed278290e385dbe7h€ÙÊ”š/r
+CODE_SMELLzAXmil2lBAkZ6yHwg_hfK‚s
+Ewebgoat-container/src/main/java/org/owasp/webgoat/lessons/Lesson.java&Remove this unused "id" private field.$äjava"S1068:MAJORROPENZ f1593134250d97f663cdb9b8cc4c1905h€ÙÊ”š/r
+CODE_SMELLzAXmil2lBAkZ6yHwg_hfL‚|
+Ewebgoat-container/src/main/java/org/owasp/webgoat/lessons/Lesson.java/Remove this unused "assignments" private field.%

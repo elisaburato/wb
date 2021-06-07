@@ -1,0 +1,7 @@
+ìjava"S3776:CRITICALROPENZ 63d1bfde29acc09a0851d334bb1bb526hÄŸ îö/r
+CODE_SMELLzAXmilztJAkZ6yHwg_hMIÇß
+Mwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTFinalEndpoint.javaRRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.S„java"S1168:MAJORROPENZ 540c13e9e156b687226421b24f2df178hÄŸ îö/r
+CODE_SMELLzAXmilztJAkZ6yHwg_hMJÇ{
+Mwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTFinalEndpoint.java&Return an empty array instead of null.e¯java"S1144:MAJORROPENZ 6260aa25d7c66a727d086bf092e915c5hÄŸ îö/r
+CODE_SMELLzAXmilztJAkZ6yHwg_hMKÇè
+Mwebgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTFinalEndpoint.java:Remove this unused private "JWTFinalEndpoint" constructor.C

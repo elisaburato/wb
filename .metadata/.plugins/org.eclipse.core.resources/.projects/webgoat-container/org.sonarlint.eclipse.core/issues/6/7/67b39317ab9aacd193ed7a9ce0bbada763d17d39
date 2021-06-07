@@ -1,0 +1,12 @@
+
+v
+AXmil2jjAkZ6yHwg_he6
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+x
+AXmil2jjAkZ6yHwg_he7
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8€ÙÊ”š/RMINORZ
+CODE_SMELL
+b
+java:S1948,"/Make "currentLesson" transient or serializable.(ÈÏà8„Øœœš/RCRITICALZ
+CODE_SMELL

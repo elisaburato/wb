@@ -1,0 +1,15 @@
+©java"S1192:CRITICALROPENZ 45ef686ebb2283dbf20e574bba9f19dbh€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hW_‚½
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.java_Define a constant instead of duplicating this literal "xxe.content.type.feedback.json" 3 times.A•java"S1192:CRITICALROPENZ 45ef686ebb2283dbf20e574bba9f19dbh€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXA‚©
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaKDefine a constant instead of duplicating this literal "$.feedback" 4 times.Aœjava"S1192:CRITICALROPENZ faf7502bf2037fee16540959308f151ah€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXB‚°
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaRDefine a constant instead of duplicating this literal "/xxe/content-type" 4 times.=Œjava"S112:MAJORROPENZ 4352fec7f390155322288977970d5704h€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXC‚¤
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.<Œjava"S112:MAJORROPENZ 0d88c52bf7ab94280f8e5102cff6664fh€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXD‚¤
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.EŒjava"S112:MAJORROPENZ 7166fc3cf193289df54def160ba7af81h€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXE‚¤
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.NŒjava"S112:MAJORROPENZ fca6d0e20588eb7017178391c76b2602h€ÙÊ”š/r
+CODE_SMELLzAXmil1haAkZ6yHwg_hXF‚¤
+Vwebgoat-lessons/xxe/src/test/java/org/owasp/webgoat/xxe/ContentTypeAssignmentTest.javaFDefine and throw a dedicated exception instead of using a generic one.X
